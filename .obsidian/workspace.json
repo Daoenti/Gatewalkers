@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "d229c8715373f8c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "51c25f686d7d801b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e426266e0c9abd36",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "67567c04f940e274",
+    "type": "split",
+    "children": [
+      {
+        "id": "b01c94c71568f76f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fef93ce6f16c3336",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "54f8b5069ae15795",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8538cd177d6d0f8f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ff4a4d6675f68247",
+    "type": "split",
+    "children": [
+      {
+        "id": "33e47155a603ee39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9bc20693a80a2b3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d11d5590ce53b111",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ad5c85eb10d7d3b6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "71ccec9f0c8512c2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "8d1e66de75fd7cf3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "3276a26091906f3d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "e426266e0c9abd36",
+  "lastOpenFiles": [
+    "People/Mart Seeral.md",
+    "People/Theonara Carollaestri.md",
+    "Monster/Chibs.md",
+    "Pasted image 20240206205534.png",
+    "Pasted image 20240206205508.png",
+    "Items/Shade Wither Key.md",
+    "Items",
+    "Faction/Oak Steward.md",
+    "Faction",
+    "Monster/Bowfoot.md",
+    "Pasted image 20240213194806.png",
+    "Monster/Gorga.md",
+    "Pasted image 20240213194643.png",
+    "Monster/Melixie.md",
+    "People/PC/Faren.md",
+    "Locations/Auidara.md",
+    "Locations/Dreamworlds of Kadath.md",
+    "Locations/Greenleaf.md",
+    "People/Wisteria.md",
+    "People/Lemma Feldthorn.md",
+    "People/Leena Seeral.md",
+    "People/Hyacinth.md",
+    "People/Dr. Rittalson.md",
+    "People/Bolan.md",
+    "People/Barrel.md",
+    "Locations/Sevenarches.md",
+    "People/PC/J Seeral.md",
+    "People/PC/Maialen Kurabi.md",
+    "People/PC/Rhodd.md",
+    "People/PC/Val Aelleyer.md",
+    "Faction/Oak Steward 1.md",
+    "Backstory/Untitled",
+    "Monster",
+    "People/PC",
+    "Locations",
+    "Story",
+    "Backstory",
+    "People"
+  ]
+}

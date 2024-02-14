@@ -1,0 +1,1 @@
+Different writings that talk about dreams but there's no consensus on what it actually is.  Some are pleasant, some are nightmares.

@@ -1,0 +1,1 @@
+On a street, picked target with a nice pouch, [People/Mart Seeral] sent me in to grab it.  Noticed it was more secure than usual but still tried to nick it.  

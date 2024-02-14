@@ -1,0 +1,1 @@
+I dreamt of my brother, he accused me of living well and forgetting about him.  A shadowy man ([[Dr. Rittalson]] maybe) with glowing purple lines on his skin walked through a red electric portal.
