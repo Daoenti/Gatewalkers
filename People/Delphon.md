@@ -1,5 +1,5 @@
 ---
-locat: "[[Greenleaf]]"
+location: "[[Greenleaf]]"
 ---
 
 

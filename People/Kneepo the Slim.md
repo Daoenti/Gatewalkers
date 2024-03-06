@@ -14,4 +14,5 @@ Creme
 Dandelion
 Ecru
 Fuchsia
+Goldenrod
 

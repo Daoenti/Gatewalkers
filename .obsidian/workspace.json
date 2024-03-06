@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Kneepo the Slim.md",
+                "file": "People/Barrel.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Kneepo the Slim.md",
+                "file": "People/Barrel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Kneepo the Slim.md",
+                "file": "People/Barrel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Kneepo the Slim.md"
+                "file": "People/Barrel.md"
               }
             }
           },
@@ -155,16 +155,17 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "People/Kneepo the Slim.md"
+                "file": "People/Barrel.md"
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,19 +180,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a2853a9d023d0110",
+  "active": "e426266e0c9abd36",
   "lastOpenFiles": [
-    "Locations/Feywilds/Thin Lands.md",
-    "People/Delphon.md",
-    "People/Theonara Carollaestri.md",
+    "People/Abelina Choi.md",
+    "People/Atria Pebblesworth.md",
     "People/Kneepo the Slim.md",
+    "People/Barrel.md",
+    "zz_assets/Pasted image 20240305203459.png",
+    "Locations/Thin Lands (Farm).md",
+    "People/Delphon.md",
+    "Locations/Feywilds/Thin Lands.md",
+    "People/Theonara Carollaestri.md",
     "People/Oak Stweards/Lemma Feldthorn.md",
     "zz_assets",
     "People/Wisteria.md",
     "People/PC/Retired",
     "People/Hyacinth.md",
     "People/Bolan Nogasso.md",
-    "People/Barrel.md",
     "Locations/Greenleaf.md",
     "People/Dr. Rittalson.md",
     "Locations/Sevenarches.md",
@@ -221,9 +226,7 @@
     "Items",
     "Faction/Oak Steward.md",
     "Faction",
-    "Monster/Bowfoot.md",
     "zz_assets/Pasted image 20240213194806.png",
-    "Monster/Gorga.md",
     "zz_assets/Pasted image 20240213194643.png",
     "Backstory/Untitled",
     "Monster"
