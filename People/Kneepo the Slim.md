@@ -16,6 +16,7 @@ Ecru
 Fuchsia
 Goldenrod
 Kakhi
-Lila
+Lillac
+
 
 
