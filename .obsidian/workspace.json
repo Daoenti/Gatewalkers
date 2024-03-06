@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Barrel.md",
+                "file": "People/Kneepo the Slim.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Barrel.md",
+                "file": "People/Kneepo the Slim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Barrel.md",
+                "file": "People/Kneepo the Slim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Barrel.md"
+                "file": "People/Kneepo the Slim.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "People/Barrel.md"
+                "file": "People/Kneepo the Slim.md"
               }
             }
           }
@@ -182,10 +182,10 @@
   },
   "active": "e426266e0c9abd36",
   "lastOpenFiles": [
+    "People/Barrel.md",
     "People/Abelina Choi.md",
     "People/Atria Pebblesworth.md",
     "People/Kneepo the Slim.md",
-    "People/Barrel.md",
     "zz_assets/Pasted image 20240305203459.png",
     "Locations/Thin Lands (Farm).md",
     "People/Delphon.md",
