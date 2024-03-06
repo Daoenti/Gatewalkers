@@ -1,1 +1,1 @@
-Kills Elves in the Sevenarches area
+Kills Elves in the [[Sevenarches]] area.

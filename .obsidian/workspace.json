@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Feywilds/Thin Lands.md",
+                "file": "People/Bolan Nogasso.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Feywilds/Thin Lands.md",
+                "file": "People/Bolan Nogasso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Feywilds/Thin Lands.md",
+                "file": "People/Bolan Nogasso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Feywilds/Thin Lands.md"
+                "file": "People/Bolan Nogasso.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Locations/Feywilds/Thin Lands.md"
+                "file": "People/Bolan Nogasso.md"
               }
             }
           }
@@ -182,53 +182,53 @@
   },
   "active": "e426266e0c9abd36",
   "lastOpenFiles": [
-    "zz_assets/Pasted image 20240305214541.png",
-    "People/Kneepo the Slim.md",
-    "People/Barrel.md",
+    "Monster/Melixie.md",
+    "Monster/Gorga.md",
+    "Monster/Giant Maggot.md",
+    "Monster/Chibs.md",
+    "Monster/Bowfoot.md",
     "People/Abelina Choi.md",
     "People/Atria Pebblesworth.md",
+    "People/Barrel.md",
+    "People/PC/Snack.md",
+    "Story/Enubliet Curse.md",
+    "zz_templates",
+    "People/Dr. Rittalson.md",
+    "People/Hyacinth.md",
+    "People/Kneepo the Slim.md",
+    "Locations/First World/Thin Lands.md",
+    "zz_assets/Pasted image 20240305214541.png",
     "zz_assets/Pasted image 20240305203459.png",
     "Locations/Thin Lands (Farm).md",
     "People/Delphon.md",
-    "Locations/Feywilds/Thin Lands.md",
     "People/Theonara Carollaestri.md",
     "People/Oak Stweards/Lemma Feldthorn.md",
     "zz_assets",
     "People/Wisteria.md",
     "People/PC/Retired",
-    "People/Hyacinth.md",
     "People/Bolan Nogasso.md",
     "Locations/Greenleaf.md",
-    "People/Dr. Rittalson.md",
     "Locations/Sevenarches.md",
     "People/Backstory/Leena Seeral.md",
     "People/Backstory",
     "People/Oak Stweards",
-    "Locations/Feywilds",
+    "Locations/First World",
     "Backstory/3 - Dreams.md",
     "zz_assets/Pasted image 20240227220028.png",
-    "People/PC/Snack.md",
     "zz_assets/Pasted image 20240227204526.png",
     "People/PC/Evaki.md",
     "zz_assets/Pasted image 20240227204410.png",
     "Backstory/2 - Priestess.md",
-    "Backstory/1 - Eyes of Sothis.md",
-    "Monster/Giant Maggot.md",
     "Monster/Untitled",
     "zz_assets/Pasted image 20240213211824.png",
     "zz_assets/Pasted image 20240213211752.png",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "People/Backstory/Mart Seeral.md",
-    "Monster/Chibs.md",
     "zz_assets/Pasted image 20240206205534.png",
     "zz_assets/Pasted image 20240206205508.png",
-    "Items/Shade Wither Key.md",
     "Items",
     "Faction",
     "zz_assets/Pasted image 20240213194806.png",
-    "zz_assets/Pasted image 20240213194643.png",
-    "Backstory/Untitled",
-    "Monster"
+    "Backstory/Untitled"
   ]
 }
