@@ -15,7 +15,7 @@ Dandelion
 Ecru
 Fuchsia
 Goldenrod
-Kakhi
+Khaki
 Lillac
 
 
