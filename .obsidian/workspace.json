@@ -148,13 +148,23 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "a2853a9d023d0110",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "People/Kneepo the Slim.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,7 +179,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e426266e0c9abd36",
+  "active": "a2853a9d023d0110",
   "lastOpenFiles": [
     "Locations/Feywilds/Thin Lands.md",
     "People/Delphon.md",
