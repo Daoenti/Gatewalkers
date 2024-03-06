@@ -11,8 +11,12 @@
             "id": "e426266e0c9abd36",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "People/Kneepo the Slim.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "People/Kneepo the Slim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "People/Kneepo the Slim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "People/Kneepo the Slim.md"
+              }
             }
           },
           {
@@ -163,43 +171,51 @@
   },
   "active": "e426266e0c9abd36",
   "lastOpenFiles": [
-    "People/Mart Seeral.md",
+    "Locations/Feywilds/Thin Lands.md",
+    "People/Delphon.md",
     "People/Theonara Carollaestri.md",
+    "People/Kneepo the Slim.md",
+    "People/Oak Stweards/Lemma Feldthorn.md",
+    "zz_assets",
+    "People/Wisteria.md",
+    "People/PC/Retired",
+    "People/Hyacinth.md",
+    "People/Bolan Nogasso.md",
+    "People/Barrel.md",
+    "Locations/Greenleaf.md",
+    "People/Dr. Rittalson.md",
+    "Locations/Sevenarches.md",
+    "People/Backstory/Leena Seeral.md",
+    "People/Backstory",
+    "People/Oak Stweards",
+    "Locations/Feywilds",
+    "Backstory/3 - Dreams.md",
+    "zz_assets/Pasted image 20240227220028.png",
+    "People/PC/Snack.md",
+    "zz_assets/Pasted image 20240227204526.png",
+    "People/PC/Evaki.md",
+    "zz_assets/Pasted image 20240227204410.png",
+    "Backstory/2 - Priestess.md",
+    "Backstory/1 - Eyes of Sothis.md",
+    "Monster/Giant Maggot.md",
+    "Monster/Untitled",
+    "zz_assets/Pasted image 20240213211824.png",
+    "zz_assets/Pasted image 20240213211752.png",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "People/Backstory/Mart Seeral.md",
     "Monster/Chibs.md",
-    "Pasted image 20240206205534.png",
-    "Pasted image 20240206205508.png",
+    "zz_assets/Pasted image 20240206205534.png",
+    "zz_assets/Pasted image 20240206205508.png",
     "Items/Shade Wither Key.md",
     "Items",
     "Faction/Oak Steward.md",
     "Faction",
     "Monster/Bowfoot.md",
-    "Pasted image 20240213194806.png",
+    "zz_assets/Pasted image 20240213194806.png",
     "Monster/Gorga.md",
-    "Pasted image 20240213194643.png",
-    "Monster/Melixie.md",
-    "People/PC/Faren.md",
-    "Locations/Auidara.md",
-    "Locations/Dreamworlds of Kadath.md",
-    "Locations/Greenleaf.md",
-    "People/Wisteria.md",
-    "People/Lemma Feldthorn.md",
-    "People/Leena Seeral.md",
-    "People/Hyacinth.md",
-    "People/Dr. Rittalson.md",
-    "People/Bolan.md",
-    "People/Barrel.md",
-    "Locations/Sevenarches.md",
-    "People/PC/J Seeral.md",
-    "People/PC/Maialen Kurabi.md",
-    "People/PC/Rhodd.md",
-    "People/PC/Val Aelleyer.md",
-    "Faction/Oak Steward 1.md",
+    "zz_assets/Pasted image 20240213194643.png",
     "Backstory/Untitled",
-    "Monster",
-    "People/PC",
-    "Locations",
-    "Story",
-    "Backstory",
-    "People"
+    "Monster"
   ]
 }

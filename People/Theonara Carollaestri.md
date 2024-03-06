@@ -1,3 +1,4 @@
-Scholar - thinks arches are fake in Sevenarches
+Scholar - thinks arches are fake in [[Sevenarches]]
+
 
 Handed over aura recorder
