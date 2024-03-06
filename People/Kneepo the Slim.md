@@ -16,7 +16,7 @@ Ecru
 Fuchsia
 Goldenrod
 Khaki
-Lillac
+Lilac
 
 
 
