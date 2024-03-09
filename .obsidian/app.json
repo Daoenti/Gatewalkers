@@ -1,4 +1,5 @@
 {
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "zz_assets"
+  "attachmentFolderPath": "zz_assets",
+  "showInlineTitle": false
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Delphon.md",
+                "file": "zz_templates/t_people.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Delphon.md",
+                "file": "zz_templates/t_people.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Delphon.md",
+                "file": "zz_templates/t_people.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Delphon.md"
+                "file": "zz_templates/t_people.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "People/Delphon.md"
+                "file": "zz_templates/t_people.md"
               }
             }
           }
@@ -182,6 +182,11 @@
   },
   "active": "e426266e0c9abd36",
   "lastOpenFiles": [
+    "People/Wisteriaa.md",
+    "zz_templates/t_people.md",
+    "People/Wisteria-.md",
+    "zz_scripts",
+    "People/Delphon.md",
     "People/Bolan Nogasso.md",
     "Monsters/Melixie.md",
     "Monsters/Gorga.md",
@@ -201,7 +206,6 @@
     "zz_assets/Pasted image 20240305214541.png",
     "zz_assets/Pasted image 20240305203459.png",
     "Locations/Thin Lands (Farm).md",
-    "People/Delphon.md",
     "People/Theonara Carollaestri.md",
     "People/Oak Stweards/Lemma Feldthorn.md",
     "zz_assets",
@@ -213,12 +217,9 @@
     "People/Backstory",
     "People/Oak Stweards",
     "Locations/First World",
-    "Backstory/3 - Dreams.md",
     "zz_assets/Pasted image 20240227220028.png",
     "zz_assets/Pasted image 20240227204526.png",
-    "People/PC/Evaki.md",
     "zz_assets/Pasted image 20240227204410.png",
-    "Backstory/2 - Priestess.md",
     "Monster/Untitled",
     "zz_assets/Pasted image 20240213211824.png",
     "zz_assets/Pasted image 20240213211752.png",
@@ -228,7 +229,6 @@
     "zz_assets/Pasted image 20240206205508.png",
     "Items",
     "Factions",
-    "zz_assets/Pasted image 20240213194806.png",
-    "Backstory/Untitled"
+    "zz_assets/Pasted image 20240213194806.png"
   ]
 }
