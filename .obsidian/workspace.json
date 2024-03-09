@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Bolan Nogasso.md",
+                "file": "People/Delphon.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Bolan Nogasso.md",
+                "file": "People/Delphon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Bolan Nogasso.md",
+                "file": "People/Delphon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Bolan Nogasso.md"
+                "file": "People/Delphon.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "People/Bolan Nogasso.md"
+                "file": "People/Delphon.md"
               }
             }
           }
@@ -182,11 +182,12 @@
   },
   "active": "e426266e0c9abd36",
   "lastOpenFiles": [
-    "Monster/Melixie.md",
-    "Monster/Gorga.md",
-    "Monster/Giant Maggot.md",
-    "Monster/Chibs.md",
-    "Monster/Bowfoot.md",
+    "People/Bolan Nogasso.md",
+    "Monsters/Melixie.md",
+    "Monsters/Gorga.md",
+    "Monsters/Giant Maggot.md",
+    "Monsters/Chibs.md",
+    "Monsters/Bowfoot.md",
     "People/Abelina Choi.md",
     "People/Atria Pebblesworth.md",
     "People/Barrel.md",
@@ -206,7 +207,6 @@
     "zz_assets",
     "People/Wisteria.md",
     "People/PC/Retired",
-    "People/Bolan Nogasso.md",
     "Locations/Greenleaf.md",
     "Locations/Sevenarches.md",
     "People/Backstory/Leena Seeral.md",
@@ -227,7 +227,7 @@
     "zz_assets/Pasted image 20240206205534.png",
     "zz_assets/Pasted image 20240206205508.png",
     "Items",
-    "Faction",
+    "Factions",
     "zz_assets/Pasted image 20240213194806.png",
     "Backstory/Untitled"
   ]
