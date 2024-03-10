@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zz_templates/t_people.md",
+                "file": "Locations/Greenleaf.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zz_templates/t_people.md",
+                "file": "Locations/Greenleaf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zz_templates/t_people.md",
+                "file": "Locations/Greenleaf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zz_templates/t_people.md"
+                "file": "Locations/Greenleaf.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zz_templates/t_people.md"
+                "file": "Locations/Greenleaf.md"
               }
             }
           }
@@ -182,8 +182,8 @@
   },
   "active": "e426266e0c9abd36",
   "lastOpenFiles": [
-    "People/Wisteriaa.md",
     "zz_templates/t_people.md",
+    "People/Wisteriaa.md",
     "People/Wisteria-.md",
     "zz_scripts",
     "People/Delphon.md",
