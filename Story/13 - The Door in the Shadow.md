@@ -11,7 +11,7 @@ I accidently said [[Kneepo the Slim]] and saw a strange slim creature in the woo
 We see creatures in the woods, with evil eyes.  We move back without getting so far away from the door, we keep it in our eyesight.
 
 # The Door
-As we move around to the side of the key we notice the light keeps facing us, like the light is an anchor point.  While we don't see any traps, we do hear a chuckling sound coming from the other side of the door.
+As we move around to the side of the door we notice the light keeps facing us, like the light is an anchor point.  While we don't see any traps, we do hear a chuckling sound coming from the other side of the door.
 
 # Beyond the door
 No natural light, however everything is dimly lit.  The room we see in front of us is a strange temple.  The silhouette we've been seeing in the trees appears in front of us. I see a moving shadow on the back wall.
