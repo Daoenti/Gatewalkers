@@ -6,3 +6,5 @@ Things went poorly, [[Rhodd]] couldn't get to the creature to fight, [[Maialen]]
 We failed to be able to identify a substance we've been carrying with us.  For some reason we seem to be able to manipulate where we are without physically moving.
 
 I accidently said [[Kneepo the Slim]] and saw a strange slim creature in the woods.
+
+We see creatures in the woods 
