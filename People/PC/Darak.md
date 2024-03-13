@@ -1,6 +1,6 @@
 ---
 location: 
-ancestry: half-elf
+ancestry: aiuvarin
 ---
 
 # Darak

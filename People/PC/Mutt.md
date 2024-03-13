@@ -1,9 +1,9 @@
 ---
-location:
-ancestry:
+location: 
+ancestry: monkey
 ---
 
-# Nutt
+# Mutt
 
 ## Interactions
 
@@ -12,3 +12,4 @@ ancestry:
 [[Darak]]
 
 ## Picture
+![[Pasted image 20240312193104.png]]

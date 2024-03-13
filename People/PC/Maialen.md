@@ -1,9 +1,9 @@
 ---
 location: 
-ancestry: human
+ancestry: aiuvarin
 ---
 
-# J Seeral
+# Maialen
 
 ## Interactions
 
@@ -11,4 +11,4 @@ ancestry: human
 ### Related Characters
 
 ## Picture
-![[Pasted image 20240312192826.png]]
+![[Pasted image 20240312192856.png]]
