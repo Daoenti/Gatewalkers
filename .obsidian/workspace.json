@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/13 - The Door.md",
+                "file": "Locations/Sevenarches.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story/13 - The Door.md",
+                "file": "Locations/Sevenarches.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Story/13 - The Door.md",
+                "file": "Locations/Sevenarches.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Story/13 - The Door.md"
+                "file": "Locations/Sevenarches.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Story/13 - The Door.md"
+                "file": "Locations/Sevenarches.md"
               }
             }
           },
@@ -194,10 +194,12 @@
   },
   "active": "e426266e0c9abd36",
   "lastOpenFiles": [
+    "Monsters/Tooth Fairy Swarm.md",
+    "zz_assets/Pasted image 20240312220615.png",
+    "Story/13 - The Door.md",
     "People/Dr. Rittalson.md",
     "People/Kneepo the Slim.md",
     "zz_assets/Pasted image 20240312213306.png",
-    "Story/13 - The Door.md",
     "Monsters/Melixie.md",
     "Monsters/Bowfoot.md",
     "Monsters/Chibs.md",
@@ -224,7 +226,6 @@
     "People/Barrel.md",
     "People/Bolan Nogasso.md",
     "People/Delphon.md",
-    "People/Hyacinth.md",
     "zz_scripts",
     "zz_templates",
     "zz_assets/Pasted image 20240305214541.png",
@@ -235,7 +236,6 @@
     "People/Oak Stweards",
     "Locations/First World",
     "zz_assets/Pasted image 20240227220028.png",
-    "zz_assets/Pasted image 20240227204526.png",
     "Monster/Untitled",
     "Untitled 1.canvas",
     "Untitled.canvas",
