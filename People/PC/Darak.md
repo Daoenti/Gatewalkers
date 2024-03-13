@@ -11,3 +11,4 @@ ancestry: half-elf
 ### Related Characters
 
 ## Picture
+![[Pasted image 20240312192452.png]]

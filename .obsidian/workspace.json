@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/PC/Darak.md",
+                "file": "People/PC/J Seeral.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/PC/Darak.md",
+                "file": "People/PC/J Seeral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/PC/Darak.md",
+                "file": "People/PC/J Seeral.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/PC/Darak.md"
+                "file": "People/PC/J Seeral.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "People/PC/Darak.md"
+                "file": "People/PC/J Seeral.md"
               }
             }
           },
@@ -194,8 +194,10 @@
   },
   "active": "e426266e0c9abd36",
   "lastOpenFiles": [
-    "Story/13 - Temp.md",
+    "People/PC/Nutt.md",
     "People/PC/Darak.md",
+    "zz_assets/Pasted image 20240312192452.png",
+    "Story/13 - Temp.md",
     "People/Abelina Choi.md",
     "zz_templates/t_people.md",
     "People/New Guy.md",
@@ -221,7 +223,6 @@
     "Monsters/Bowfoot.md",
     "People/PC/Retired/Snack.md",
     "zz_templates",
-    "Locations/First World/Thin Lands.md",
     "zz_assets/Pasted image 20240305214541.png",
     "zz_assets/Pasted image 20240305203459.png",
     "zz_assets",
@@ -240,7 +241,6 @@
     "zz_assets/Pasted image 20240206205534.png",
     "zz_assets/Pasted image 20240206205508.png",
     "Items",
-    "Factions",
-    "zz_assets/Pasted image 20240213194806.png"
+    "Factions"
   ]
 }
