@@ -6,6 +6,7 @@ table without ID link(file.name) as "Character Name", player as Player, class as
 from "People/PC"
 where (role = "player")
 where (status = "active")
+SORT player
 ```
 
 ## Latest Story Entries
