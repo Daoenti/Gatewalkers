@@ -13,6 +13,7 @@ ancestry:
 
 ## Interactions
 <% tp.file.cursor() %>
+
 ### Related Characters
 
 ## Picture

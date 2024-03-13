@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Greenleaf.md",
+                "file": "People/Abelina Choi.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 242.5
   },
   "right": {
     "id": "ff4a4d6675f68247",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Greenleaf.md",
+                "file": "People/Abelina Choi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Greenleaf.md",
+                "file": "People/Abelina Choi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Greenleaf.md"
+                "file": "People/Abelina Choi.md"
               }
             }
           },
@@ -142,30 +142,41 @@
             }
           },
           {
-            "id": "3276a26091906f3d",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "a2853a9d023d0110",
             "type": "leaf",
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Locations/Greenleaf.md"
+                "file": "People/Abelina Choi.md"
+              }
+            }
+          },
+          {
+            "id": "c655c2515611ebbb",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_796afbbaf9c8",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 15,
+                    "month": 0,
+                    "year": 4723
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                }
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 383.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,43 +188,44 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "e426266e0c9abd36",
   "lastOpenFiles": [
     "zz_templates/t_people.md",
+    "People/New Guy.md",
+    "People/Wisteria.md",
+    "People/Theonara Carollaestri.md",
+    "People/Oak Stweards/Lemma Feldthorn.md",
+    "People/Abelina Choi.md",
+    "People/Atria Pebblesworth.md",
+    "People/Barrel.md",
+    "People/Bolan Nogasso.md",
+    "People/Dr. Rittalson.md",
+    "People/Delphon.md",
+    "People/Hyacinth.md",
+    "People/Kneepo the Slim.md",
+    "Story/13 - Temp.md",
+    "Story/1 - Enubliet Curse.md",
+    "Locations/Greenleaf.md",
     "People/Wisteriaa.md",
     "People/Wisteria-.md",
     "zz_scripts",
-    "People/Delphon.md",
-    "People/Bolan Nogasso.md",
     "Monsters/Melixie.md",
     "Monsters/Gorga.md",
     "Monsters/Giant Maggot.md",
     "Monsters/Chibs.md",
     "Monsters/Bowfoot.md",
-    "People/Abelina Choi.md",
-    "People/Atria Pebblesworth.md",
-    "People/Barrel.md",
-    "People/PC/Snack.md",
-    "Story/Enubliet Curse.md",
+    "People/PC/Retired/Snack.md",
     "zz_templates",
-    "People/Dr. Rittalson.md",
-    "People/Hyacinth.md",
-    "People/Kneepo the Slim.md",
     "Locations/First World/Thin Lands.md",
     "zz_assets/Pasted image 20240305214541.png",
     "zz_assets/Pasted image 20240305203459.png",
     "Locations/Thin Lands (Farm).md",
-    "People/Theonara Carollaestri.md",
-    "People/Oak Stweards/Lemma Feldthorn.md",
     "zz_assets",
-    "People/Wisteria.md",
     "People/PC/Retired",
-    "Locations/Greenleaf.md",
-    "Locations/Sevenarches.md",
-    "People/Backstory/Leena Seeral.md",
     "People/Backstory",
     "People/Oak Stweards",
     "Locations/First World",
