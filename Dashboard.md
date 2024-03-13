@@ -1,0 +1,5 @@
+# Dashboard
+## Party
+```dataview
+table 
+```

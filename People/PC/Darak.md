@@ -1,4 +1,7 @@
 ---
+player: Vince
+class: rogue
+level: 2
 location: party
 ancestry: aiuvarin
 ---
