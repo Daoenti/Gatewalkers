@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/13 - Temp.md",
+                "file": "People/Kneepo the Slim.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story/13 - Temp.md",
+                "file": "People/Kneepo the Slim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Story/13 - Temp.md",
+                "file": "People/Kneepo the Slim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Story/13 - Temp.md"
+                "file": "People/Kneepo the Slim.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Story/13 - Temp.md"
+                "file": "People/Kneepo the Slim.md"
               }
             }
           },
@@ -194,12 +194,13 @@
   },
   "active": "e426266e0c9abd36",
   "lastOpenFiles": [
+    "zz_assets/Pasted image 20240312213306.png",
+    "Story/13 - Temp.md",
     "Monsters/Melixie.md",
     "Monsters/Bowfoot.md",
     "Monsters/Chibs.md",
     "Monsters/Giant Maggot.md",
     "Monsters/Gorga.md",
-    "Story/13 - Temp.md",
     "People/PC/Rhodd.md",
     "People/PC/Mutt.md",
     "People/PC/Maialen.md",
@@ -224,7 +225,6 @@
     "People/Delphon.md",
     "People/Hyacinth.md",
     "People/Kneepo the Slim.md",
-    "Story/1 - Enubliet Curse.md",
     "zz_scripts",
     "zz_templates",
     "zz_assets/Pasted image 20240305214541.png",

@@ -18,5 +18,6 @@ Goldenrod
 Khaki
 Lilac
 
+![[Pasted image 20240312213306.png]]
 
 
