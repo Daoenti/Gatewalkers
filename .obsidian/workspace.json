@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Abelina Choi.md",
+                "file": "People/PC/Darak.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Abelina Choi.md",
+                "file": "People/PC/Darak.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Abelina Choi.md",
+                "file": "People/PC/Darak.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Abelina Choi.md"
+                "file": "People/PC/Darak.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "People/Abelina Choi.md"
+                "file": "People/PC/Darak.md"
               }
             }
           },
@@ -194,12 +194,14 @@
   },
   "active": "e426266e0c9abd36",
   "lastOpenFiles": [
+    "Story/13 - Temp.md",
+    "People/PC/Darak.md",
+    "People/Abelina Choi.md",
     "zz_templates/t_people.md",
     "People/New Guy.md",
     "People/Wisteria.md",
     "People/Theonara Carollaestri.md",
     "People/Oak Stweards/Lemma Feldthorn.md",
-    "People/Abelina Choi.md",
     "People/Atria Pebblesworth.md",
     "People/Barrel.md",
     "People/Bolan Nogasso.md",
@@ -207,7 +209,6 @@
     "People/Delphon.md",
     "People/Hyacinth.md",
     "People/Kneepo the Slim.md",
-    "Story/13 - Temp.md",
     "Story/1 - Enubliet Curse.md",
     "Locations/Greenleaf.md",
     "People/Wisteriaa.md",
@@ -223,7 +224,6 @@
     "Locations/First World/Thin Lands.md",
     "zz_assets/Pasted image 20240305214541.png",
     "zz_assets/Pasted image 20240305203459.png",
-    "Locations/Thin Lands (Farm).md",
     "zz_assets",
     "People/PC/Retired",
     "People/Backstory",
