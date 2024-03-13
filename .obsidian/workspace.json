@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Kneepo the Slim.md",
+                "file": "Story/13 - Temp.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Kneepo the Slim.md",
+                "file": "Story/13 - Temp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Kneepo the Slim.md",
+                "file": "Story/13 - Temp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Kneepo the Slim.md"
+                "file": "Story/13 - Temp.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "People/Kneepo the Slim.md"
+                "file": "Story/13 - Temp.md"
               }
             }
           },
@@ -194,6 +194,8 @@
   },
   "active": "e426266e0c9abd36",
   "lastOpenFiles": [
+    "People/Dr. Rittalson.md",
+    "People/Kneepo the Slim.md",
     "zz_assets/Pasted image 20240312213306.png",
     "Story/13 - Temp.md",
     "Monsters/Melixie.md",
@@ -221,10 +223,8 @@
     "People/Atria Pebblesworth.md",
     "People/Barrel.md",
     "People/Bolan Nogasso.md",
-    "People/Dr. Rittalson.md",
     "People/Delphon.md",
     "People/Hyacinth.md",
-    "People/Kneepo the Slim.md",
     "zz_scripts",
     "zz_templates",
     "zz_assets/Pasted image 20240305214541.png",
@@ -236,7 +236,6 @@
     "Locations/First World",
     "zz_assets/Pasted image 20240227220028.png",
     "zz_assets/Pasted image 20240227204526.png",
-    "zz_assets/Pasted image 20240227204410.png",
     "Monster/Untitled",
     "Untitled 1.canvas",
     "Untitled.canvas",
