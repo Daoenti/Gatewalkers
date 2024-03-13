@@ -1,6 +1,7 @@
 ---
-location: 
+location: party
 ancestry: monkey
+familiar: "[[Darak]]"
 ---
 
 # Mutt

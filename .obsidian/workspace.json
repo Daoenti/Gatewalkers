@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/PC/J Seeral.md",
+                "file": "Story/13 - Temp.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/PC/J Seeral.md",
+                "file": "Story/13 - Temp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/PC/J Seeral.md",
+                "file": "Story/13 - Temp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/PC/J Seeral.md"
+                "file": "Story/13 - Temp.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "People/PC/J Seeral.md"
+                "file": "Story/13 - Temp.md"
               }
             }
           },
@@ -194,18 +194,23 @@
   },
   "active": "e426266e0c9abd36",
   "lastOpenFiles": [
+    "Monsters/Melixie.md",
+    "Monsters/Bowfoot.md",
+    "Monsters/Chibs.md",
+    "Monsters/Giant Maggot.md",
+    "Monsters/Gorga.md",
+    "Story/13 - Temp.md",
     "People/PC/Rhodd.md",
     "People/PC/Mutt.md",
     "People/PC/Maialen.md",
-    "People/PC/J Seeral.md",
     "People/PC/Darak.md",
+    "People/PC/J Seeral.md",
     "zz_assets/Pasted image 20240312193104.png",
     "zz_assets/Pasted image 20240312193017.png",
     "zz_assets/Pasted image 20240312192856.png",
     "People/PC/Maialen Kurabi.md",
     "zz_assets/Pasted image 20240312192826.png",
     "zz_assets/Pasted image 20240312192452.png",
-    "Story/13 - Temp.md",
     "People/Abelina Choi.md",
     "zz_templates/t_people.md",
     "People/New Guy.md",
@@ -220,9 +225,6 @@
     "People/Hyacinth.md",
     "People/Kneepo the Slim.md",
     "Story/1 - Enubliet Curse.md",
-    "Locations/Greenleaf.md",
-    "People/Wisteriaa.md",
-    "People/Wisteria-.md",
     "zz_scripts",
     "zz_templates",
     "zz_assets/Pasted image 20240305214541.png",

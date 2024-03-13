@@ -1,5 +1,5 @@
 ---
-location: 
+location: party
 ancestry: human
 ---
 
