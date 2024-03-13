@@ -1,7 +1,12 @@
 ---
+player: Vince
+class: familiar
+level: 2
+role: player
+noteicon: player
 location: party
 ancestry: monkey
-familiar: "[[Darak]]"
+status: active
 ---
 
 # Mutt

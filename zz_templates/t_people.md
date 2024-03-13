@@ -1,6 +1,12 @@
 ---
+player:
+class:
+level:
+role:
+noteicon:
 location:
 ancestry:
+status:
 ---
 <%*
 	let title = tp.file.title 

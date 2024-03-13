@@ -1,6 +1,12 @@
 ---
+player: Eric
+class: barbarian
+level: 2
+role: player
+noteicon: player
 location: party
 ancestry: orc
+status: active
 ---
 
 # Rhodd

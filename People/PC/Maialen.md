@@ -1,6 +1,12 @@
 ---
+player: Sophie
+class: thamaturge
+level: 2
+role: player
+noteicon: player
 location: party
 ancestry: aiuvarin
+status: active
 ---
 
 # Maialen

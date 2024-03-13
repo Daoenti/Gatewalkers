@@ -1,6 +1,12 @@
 ---
+player: Tim
+class: cleric
+level: 2
+role: player
+noteicon: player
 location: party
 ancestry: human
+status: active
 ---
 
 # J Seeral

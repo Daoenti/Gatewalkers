@@ -25,9 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/PC/Darak.md",
+                "file": "Dashboard.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/PC/Darak.md",
+                "file": "Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/PC/Darak.md",
+                "file": "Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/PC/Darak.md"
+                "file": "Dashboard.md"
               }
             }
           },
@@ -160,7 +160,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "People/PC/Darak.md"
+                "file": "Dashboard.md"
               }
             }
           },
@@ -215,7 +215,13 @@
   },
   "active": "979c76c1b0564b01",
   "lastOpenFiles": [
+    "zz_templates/t_people.md",
+    "People/PC/Darak.md",
     "Dashboard.md",
+    "People/PC/Rhodd.md",
+    "People/PC/Mutt.md",
+    "People/PC/Maialen.md",
+    "People/PC/J Seeral.md",
     "Locations/Sevenarches.md",
     "Monsters/Tooth Fairy Swarm.md",
     "zz_assets/Pasted image 20240312220615.png",
@@ -228,11 +234,6 @@
     "Monsters/Chibs.md",
     "Monsters/Giant Maggot.md",
     "Monsters/Gorga.md",
-    "People/PC/Rhodd.md",
-    "People/PC/Mutt.md",
-    "People/PC/Maialen.md",
-    "People/PC/Darak.md",
-    "People/PC/J Seeral.md",
     "zz_assets/Pasted image 20240312193104.png",
     "zz_assets/Pasted image 20240312193017.png",
     "zz_assets/Pasted image 20240312192856.png",
@@ -240,7 +241,6 @@
     "zz_assets/Pasted image 20240312192826.png",
     "zz_assets/Pasted image 20240312192452.png",
     "People/Abelina Choi.md",
-    "zz_templates/t_people.md",
     "People/New Guy.md",
     "People/Wisteria.md",
     "People/Theonara Carollaestri.md",
