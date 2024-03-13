@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Story/13 - The Door in the Shadow.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Story/13 - The Door in the Shadow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Story/13 - The Door in the Shadow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.md"
+                "file": "Story/13 - The Door in the Shadow.md"
               }
             }
           },
@@ -160,7 +160,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Dashboard.md"
+                "file": "Story/13 - The Door in the Shadow.md"
               }
             }
           },
@@ -215,13 +215,13 @@
   },
   "active": "979c76c1b0564b01",
   "lastOpenFiles": [
+    "People/PC/Darak.md",
+    "People/PC/Maialen.md",
+    "zz_templates/t_people.md",
+    "Dashboard.md",
     "People/PC/Rhodd.md",
     "Story/13 - The Door in the Shadow.md",
-    "Dashboard.md",
-    "zz_templates/t_people.md",
-    "People/PC/Darak.md",
     "People/PC/Mutt.md",
-    "People/PC/Maialen.md",
     "People/PC/J Seeral.md",
     "Locations/Sevenarches.md",
     "Monsters/Tooth Fairy Swarm.md",

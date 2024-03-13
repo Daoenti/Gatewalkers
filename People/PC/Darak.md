@@ -15,6 +15,7 @@ status: active
 
 
 ### Related Characters
+[[Mutt]]
 
 ## Picture
 ![[Pasted image 20240312192452.png]]
