@@ -1,6 +1,9 @@
 {
   "accentColor": "",
   "cssTheme": "ITS Theme",
-  "baseFontSize": 16,
-  "baseFontSizeAction": true
+  "baseFontSize": 14,
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "S - Images Adjustments"
+  ]
 }
