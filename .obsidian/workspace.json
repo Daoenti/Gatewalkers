@@ -23,9 +23,11 @@
             "id": "979c76c1b0564b01",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "zz_assets/Pasted image 20240312220615.png"
+                "file": "Locations/Thin Lands (First World).md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zz_assets/Pasted image 20240312220615.png",
+                "file": "Locations/Thin Lands (First World).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zz_assets/Pasted image 20240312220615.png",
+                "file": "Locations/Thin Lands (First World).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zz_assets/Pasted image 20240312220615.png"
+                "file": "Locations/Thin Lands (First World).md"
               }
             }
           },
@@ -158,7 +160,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zz_assets/Pasted image 20240312220615.png"
+                "file": "Locations/Thin Lands (First World).md"
               }
             }
           },
@@ -213,6 +215,7 @@
   },
   "active": "979c76c1b0564b01",
   "lastOpenFiles": [
+    "zz_assets/Pasted image 20240312220615.png",
     "zz_assets/Pasted image 20240227204526.png",
     "zz_assets/Pasted image 20240227204410.png",
     "zz_assets/Pasted image 20240213211824.png",
@@ -236,7 +239,6 @@
     "People/PC/Mutt.md",
     "People/PC/J Seeral.md",
     "Locations/Sevenarches.md",
-    "zz_assets/Pasted image 20240312220615.png",
     "People/Dr. Rittalson.md",
     "People/Kneepo the Slim.md",
     "zz_assets/Pasted image 20240312213306.png",

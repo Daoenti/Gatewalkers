@@ -1,5 +1,5 @@
 ---
-location: "[[Thin Lands]]"
+location: "[[Thin Lands (First World)]]"
 ---
 Fae that is friends with [[Bolan Nogasso]]
 Perhaps from the First World, believes weakening the portal between the two worlds will help the fae. May have [[Shade Wither Key]]
