@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Thin Lands (First World).md",
+                "file": "People/Barrel.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thin Lands (First World).md",
+                "file": "People/Barrel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thin Lands (First World).md",
+                "file": "People/Barrel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thin Lands (First World).md"
+                "file": "People/Barrel.md"
               }
             }
           },
@@ -160,7 +160,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Locations/Thin Lands (First World).md"
+                "file": "People/Barrel.md"
               }
             }
           },
@@ -207,14 +207,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "calendarium:Open Calendarium": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "calendarium:Open Calendarium": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "979c76c1b0564b01",
   "lastOpenFiles": [
+    "Locations/Thin Lands (First World).md",
     "zz_assets/Pasted image 20240312220615.png",
     "zz_assets/Pasted image 20240227204526.png",
     "zz_assets/Pasted image 20240227204410.png",
@@ -242,7 +243,6 @@
     "People/Dr. Rittalson.md",
     "People/Kneepo the Slim.md",
     "zz_assets/Pasted image 20240312213306.png",
-    "zz_assets/Pasted image 20240312193104.png",
     "People/PC/Maialen Kurabi.md",
     "People/Abelina Choi.md",
     "People/New Guy.md",
