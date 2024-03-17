@@ -8,7 +8,6 @@ location: party
 ancestry: orc
 status: active
 ---
-
 # Rhodd
 
 ## Interactions

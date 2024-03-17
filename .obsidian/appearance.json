@@ -1,9 +1,10 @@
 {
   "accentColor": "",
   "cssTheme": "ITS Theme",
-  "baseFontSize": 14,
+  "baseFontSize": 16,
   "baseFontSizeAction": true,
   "enabledCssSnippets": [
-    "S - Images Adjustments"
+    "S - Images Adjustments",
+    "HoverProperties_w-Columns"
   ]
 }

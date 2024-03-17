@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Barrel.md",
+                "file": "Dashboard.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Barrel.md",
+                "file": "Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Barrel.md",
+                "file": "Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Barrel.md"
+                "file": "Dashboard.md"
               }
             }
           },
@@ -160,7 +160,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "People/Barrel.md"
+                "file": "Dashboard.md"
               }
             }
           },
@@ -207,14 +207,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "calendarium:Open Calendarium": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "979c76c1b0564b01",
   "lastOpenFiles": [
+    "zz_templates/t_people.md",
+    "People/PC/Darak.md",
+    "People/PC/J Seeral.md",
+    "People/PC/Maialen.md",
+    "People/PC/Mutt.md",
+    "People/PC/Rhodd.md",
+    "People/Barrel.md",
     "Locations/Thin Lands (First World).md",
     "zz_assets/Pasted image 20240312220615.png",
     "zz_assets/Pasted image 20240227204526.png",
@@ -232,13 +239,7 @@
     "Monsters/Gorga.md",
     "Monsters/Melixie.md",
     "Story/13 - The Door in the Shadow.md",
-    "People/PC/Darak.md",
-    "People/PC/Maialen.md",
-    "zz_templates/t_people.md",
     "Dashboard.md",
-    "People/PC/Rhodd.md",
-    "People/PC/Mutt.md",
-    "People/PC/J Seeral.md",
     "Locations/Sevenarches.md",
     "People/Dr. Rittalson.md",
     "People/Kneepo the Slim.md",
@@ -250,7 +251,6 @@
     "People/Theonara Carollaestri.md",
     "People/Oak Stweards/Lemma Feldthorn.md",
     "People/Atria Pebblesworth.md",
-    "People/Barrel.md",
     "zz_scripts",
     "zz_templates",
     "zz_assets",

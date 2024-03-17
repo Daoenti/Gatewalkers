@@ -8,7 +8,6 @@ location: party
 ancestry: aiuvarin
 status: active
 ---
-
 # Darak
 
 ## Interactions

@@ -8,7 +8,6 @@ location: party
 ancestry: human
 status: active
 ---
-
 # J Seeral
 
 ## Interactions

@@ -8,7 +8,6 @@ location: party
 ancestry: monkey
 status: active
 ---
-
 # Mutt
 
 ## Interactions
