@@ -17,6 +17,10 @@
     {
       "folder": "People",
       "template": "zz_templates/t_people.md"
+    },
+    {
+      "folder": "Story",
+      "template": "zz_templates/t_story.md"
     }
   ],
   "syntax_highlighting": true,

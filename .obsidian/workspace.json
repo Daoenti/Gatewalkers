@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "51c25f686d7d801b",
+        "id": "dfc6506cf8f1fa33",
         "type": "tabs",
         "children": [
           {
-            "id": "e426266e0c9abd36",
+            "id": "cb51c35b0f754e11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Sevenarches.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "979c76c1b0564b01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dashboard.md",
+                "file": "Story/13 - Temp 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Story/13 - Temp 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Story/13 - Temp 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.md"
+                "file": "Story/13 - Temp 2.md"
               }
             }
           },
@@ -160,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Dashboard.md"
+                "file": "Story/13 - Temp 2.md"
               }
             }
           },
@@ -213,8 +200,18 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "979c76c1b0564b01",
+  "active": "cb51c35b0f754e11",
   "lastOpenFiles": [
+    "Story/13 - Temp.md",
+    "Story/13 - Temp 2.md",
+    "zz_templates/t_story.md",
+    "Story/13 - The Door in the Shadow.md",
+    "People/Delphon.md",
+    "People/Theonara Carollaestri.md",
+    "Locations/Sevenarches.md",
+    "People/Atria Pebblesworth.md",
+    "Story/1 - Enubliet Curse.md",
+    "Dashboard.md",
     "zz_templates/t_people.md",
     "People/PC/Darak.md",
     "People/PC/J Seeral.md",
@@ -238,19 +235,9 @@
     "Monsters/Giant Maggot.md",
     "Monsters/Gorga.md",
     "Monsters/Melixie.md",
-    "Story/13 - The Door in the Shadow.md",
-    "Dashboard.md",
-    "Locations/Sevenarches.md",
     "People/Dr. Rittalson.md",
     "People/Kneepo the Slim.md",
     "zz_assets/Pasted image 20240312213306.png",
-    "People/PC/Maialen Kurabi.md",
-    "People/Abelina Choi.md",
-    "People/New Guy.md",
-    "People/Wisteria.md",
-    "People/Theonara Carollaestri.md",
-    "People/Oak Stweards/Lemma Feldthorn.md",
-    "People/Atria Pebblesworth.md",
     "zz_scripts",
     "zz_templates",
     "zz_assets",
