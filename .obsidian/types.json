@@ -23,6 +23,7 @@
     "excalidraw-iframe-theme": "text",
     "locations": "multitext",
     "players": "multitext",
-    "npcs": "multitext"
+    "npcs": "multitext",
+    "session_number": "number"
   }
 }

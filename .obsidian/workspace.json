@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/13 - Temp 2.md",
+                "file": "Dashboard.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story/13 - Temp 2.md",
+                "file": "Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Story/13 - Temp 2.md",
+                "file": "Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Story/13 - Temp 2.md"
+                "file": "Dashboard.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Story/13 - Temp 2.md"
+                "file": "Dashboard.md"
               }
             }
           },
@@ -202,10 +202,10 @@
   },
   "active": "cb51c35b0f754e11",
   "lastOpenFiles": [
-    "Story/13 - Temp.md",
-    "Story/13 - Temp 2.md",
-    "zz_templates/t_story.md",
     "Story/13 - The Door in the Shadow.md",
+    "Story/13 - The Door in the Shadow.md",
+    "zz_templates/t_story.md",
+    "Story/13 - Temp.md",
     "People/Delphon.md",
     "People/Theonara Carollaestri.md",
     "Locations/Sevenarches.md",

@@ -1,3 +1,18 @@
+---
+locations: 
+  - "[[Thin Lands (First World)]]"
+npcs:
+  - "[[Kneepo the Slim]]"
+players: 
+  - "[[Rhodd]]"
+  - "[[J Seeral]]"
+  - "[[Maialen]]"
+  - "[[Darak]]"
+session_number: 13
+title: The Door in the Shadow
+desc:
+---
+
 # Fighting
 We are fighting another one of those owl things that make us move in the wrong directions.
 
@@ -15,6 +30,3 @@ As we move around to the side of the door we notice the light keeps facing us, l
 
 # Beyond the door
 No natural light, however everything is dimly lit.  The room we see in front of us is a strange temple.  The silhouette we've been seeing in the trees appears in front of us. I see a moving shadow on the back wall.
-
-
-
