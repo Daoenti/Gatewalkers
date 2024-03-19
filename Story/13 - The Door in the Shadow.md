@@ -12,7 +12,6 @@ session_number: 13
 title: The Door in the Shadow
 desc:
 ---
-
 # Fighting
 We are fighting another one of those owl things that make us move in the wrong directions.
 

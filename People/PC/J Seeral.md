@@ -1,11 +1,11 @@
 ---
 player: Tim
-class: cleric
+class: "[[zz_compendium/character/archetypes/cleric|Cleric]]"
 level: 2
 role: player
 noteicon: player
 location: party
-ancestry: human
+ancestry: "[[human|Human]]"
 status: active
 ---
 # J Seeral
