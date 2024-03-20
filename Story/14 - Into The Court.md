@@ -27,5 +27,7 @@ Elven skulls surround the walls, strange glowing worms are crawling through out 
 Paintings of [[Kneepo the Slim]] kneeling before [[Count Renalc]].  War with elves, the beginning of the Enubliet Curse.  The paintings are magically enchanted.
 
 # The Artist's Den
-Painting of [[Kneepo the Slim]] sitting on a throne, dying elves all around his feet.  A second figure of [[Kneepo the Slim]] is in the background peering out of the trees at the elves.  An insectoid creature comes through a door, covered in painted symbols, "I will paint your death".  
+Painting of [[Kneepo the Slim]] sitting on a throne, dying elves all around his feet.  A second figure of [[Kneepo the Slim]] is in the background peering out of the trees at the elves.  An insectoid creature comes through a door, covered in painted symbols, "I will paint your death".  Upon killing the insectoid fae we desecrated the painting by adding our own flair, including a blindfold over the second image of [[Kneepo the Slim]], which caused [[Maialen]] to have her vision temporarily obstructed.  Afterwards she tested putting a blindfold on the poppet that she has been carrying with the same effect.
+
+
 
