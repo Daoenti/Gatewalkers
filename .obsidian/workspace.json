@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/14 - Temp.md",
+                "file": "Story/14 - Into The Court.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story/14 - Temp.md",
+                "file": "Story/14 - Into The Court.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Story/14 - Temp.md",
+                "file": "Story/14 - Into The Court.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Story/14 - Temp.md"
+                "file": "Story/14 - Into The Court.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Story/14 - Temp.md"
+                "file": "Story/14 - Into The Court.md"
               }
             }
           },
@@ -202,11 +202,12 @@
   },
   "active": "cb51c35b0f754e11",
   "lastOpenFiles": [
+    "Locations/Kneepo's Court.md",
+    "Story/14 - Into The Court.md",
     "Monsters/Metal Eyeball.md",
     "zz_assets/Pasted image 20240319192953.png",
     "People/Centaur Woman.md",
     "zz_assets/Pasted image 20240319192924.png",
-    "Story/14 - Temp.md",
     "Story/13 - The Door in the Shadow.md",
     "zz_templates/t_story.md",
     "People/PC/J Seeral.md",
