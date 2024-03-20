@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/14 - Into The Court.md",
+                "file": "People/Count Renalc.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story/14 - Into The Court.md",
+                "file": "People/Count Renalc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Story/14 - Into The Court.md",
+                "file": "People/Count Renalc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Story/14 - Into The Court.md"
+                "file": "People/Count Renalc.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Story/14 - Into The Court.md"
+                "file": "People/Count Renalc.md"
               }
             }
           },
@@ -202,8 +202,9 @@
   },
   "active": "cb51c35b0f754e11",
   "lastOpenFiles": [
-    "Locations/Kneepo's Court.md",
     "Story/14 - Into The Court.md",
+    "People/Count Renalc.md",
+    "Locations/Kneepo's Court.md",
     "Monsters/Metal Eyeball.md",
     "zz_assets/Pasted image 20240319192953.png",
     "People/Centaur Woman.md",
@@ -237,7 +238,6 @@
     "Monsters/Tooth Fairy Swarm.md",
     "Monsters/Bowfoot.md",
     "Monsters/Chibs.md",
-    "Monsters/Giant Maggot.md",
     "zz_scripts",
     "zz_templates",
     "zz_assets",
