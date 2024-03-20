@@ -4,5 +4,6 @@ npcs:
 players: 
 session_number: 
 title: 
-desc:
+desc: 
+monsters:
 ---

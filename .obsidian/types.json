@@ -24,6 +24,7 @@
     "locations": "multitext",
     "players": "multitext",
     "npcs": "multitext",
-    "session_number": "number"
+    "session_number": "number",
+    "monsters": "multitext"
   }
 }
