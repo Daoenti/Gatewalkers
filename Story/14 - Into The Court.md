@@ -26,3 +26,6 @@ Elven skulls surround the walls, strange glowing worms are crawling through out 
 # The Painted Walls
 Paintings of [[Kneepo the Slim]] kneeling before [[Count Renalc]].  War with elves, the beginning of the Enubliet Curse.  The paintings are magically enchanted.
 
+# The Artist's Den
+Painting of [[Kneepo the Slim]] sitting on a throne, dying elves all around his feet.  A second figure of [[Kneepo the Slim]] is in the background peering out of the trees at the elves.  An insectoid creature comes through a door, covered in painted symbols, "I will paint your death".  
+
