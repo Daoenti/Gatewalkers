@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/14 - Into The Court.md",
+                "file": "Dashboard.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story/14 - Into The Court.md",
+                "file": "Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Story/14 - Into The Court.md",
+                "file": "Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Story/14 - Into The Court.md"
+                "file": "Dashboard.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Story/14 - Into The Court.md"
+                "file": "Dashboard.md"
               }
             }
           },
@@ -202,24 +202,26 @@
   },
   "active": "cb51c35b0f754e11",
   "lastOpenFiles": [
-    "People/Count Renalc.md",
+    "People/Dr. Rittalson.md",
+    "Dashboard.md",
+    "Story/1 - Arrival.md",
+    "Story/1 - Enubliet Curse.md",
+    "zz_templates/t_story.md",
     "Story/14 - Into The Court.md",
+    "People/Count Renalc.md",
     "Locations/Kneepo's Court.md",
     "Monsters/Metal Eyeball.md",
     "zz_assets/Pasted image 20240319192953.png",
     "People/Centaur Woman.md",
     "zz_assets/Pasted image 20240319192924.png",
     "Story/13 - The Door in the Shadow.md",
-    "zz_templates/t_story.md",
     "People/PC/J Seeral.md",
     "zz_compendium/rules/traits/human.md",
-    "Dashboard.md",
     "Story/13 - Temp.md",
     "People/Delphon.md",
     "People/Theonara Carollaestri.md",
     "Locations/Sevenarches.md",
     "People/Atria Pebblesworth.md",
-    "Story/1 - Enubliet Curse.md",
     "zz_templates/t_people.md",
     "People/PC/Darak.md",
     "People/PC/Maialen.md",
@@ -236,8 +238,6 @@
     "zz_assets/Pasted image 20240213194643.png",
     "zz_assets/Pasted image 20240206205534.png",
     "Monsters/Tooth Fairy Swarm.md",
-    "Monsters/Bowfoot.md",
-    "Monsters/Chibs.md",
     "zz_scripts",
     "zz_templates",
     "zz_assets",
