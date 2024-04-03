@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Story/15 - Temp.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Story/15 - Temp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Story/15 - Temp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.md"
+                "file": "Story/15 - Temp.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Dashboard.md"
+                "file": "Story/15 - Temp.md"
               }
             }
           },
@@ -196,18 +196,19 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "cb51c35b0f754e11",
   "lastOpenFiles": [
-    "People/Dr. Rittalson.md",
+    "Story/14 - Into The Court.md",
+    "Story/15 - Temp.md",
     "Dashboard.md",
+    "People/Dr. Rittalson.md",
     "Story/1 - Arrival.md",
     "Story/1 - Enubliet Curse.md",
     "zz_templates/t_story.md",
-    "Story/14 - Into The Court.md",
     "People/Count Renalc.md",
     "Locations/Kneepo's Court.md",
     "Monsters/Metal Eyeball.md",
@@ -237,7 +238,6 @@
     "zz_assets/Pasted image 20240213194806.png",
     "zz_assets/Pasted image 20240213194643.png",
     "zz_assets/Pasted image 20240206205534.png",
-    "Monsters/Tooth Fairy Swarm.md",
     "zz_scripts",
     "zz_templates",
     "zz_assets",
