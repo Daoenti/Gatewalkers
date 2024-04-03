@@ -16,4 +16,4 @@ A painting depicting two slender black and white creatures adorns the wall behin
 I looked under the bed, something flittered.  A lone tooth fairy flew out, giving it an offering of the gold molar we found earlier he traded me the tooth he had, a [[bloodseeker-beak|Bloodseeker Beak]].
 
 # The Shadow Lady
-A shadowy visage of a lady wearing a white suit stained in blood appears and is instantly aggressive toward [[Maialen]].  She is jealous of [[Maialen]], perhaps [[Kneepo the Slim]] wants [[Maialen]] for a bride.
+A shadowy visage of a lady wearing a white suit stained in blood appears and is instantly aggressive toward [[Maialen]].  She is jealous of [[Maialen]], perhaps [[Kneepo the Slim]] wants [[Maialen]] for a bride.  She is a Shae from the shadow lands.
