@@ -22,4 +22,4 @@ A shadowy visage of a lady wearing a white suit stained in blood appears and is 
 
 # The Amber Tree
 ![[Pasted image 20240402211314.png]]
-[[Monsters/The Looksee Man]] attacks us.
+[[Monsters/The Looksee Man]] attacks us.  Reproduction pods exist in the tree, he made a frog with bunny ears.
