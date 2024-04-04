@@ -26,6 +26,7 @@
     "npcs": "multitext",
     "session_number": "number",
     "monsters": "multitext",
-    "excalidraw-open-md": "checkbox"
+    "excalidraw-open-md": "checkbox",
+    "level": "number"
   }
 }

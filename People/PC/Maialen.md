@@ -1,11 +1,11 @@
 ---
 player: Sophie
-class: thamaturge
+class: "[[zz_compendium/character/archetypes/thaumaturge-da|Thaumaturge]]"
 level: 2
 role: player
 noteicon: player
-location: party
-ancestry: aiuvarin
+location: "[[Kneepo's Court]]"
+ancestry: "[[half-elf|Half-Elf]]"
 status: active
 ---
 # Maialen

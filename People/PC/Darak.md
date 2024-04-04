@@ -1,11 +1,11 @@
 ---
 player: Vince
-class: rogue
+class: "[[zz_compendium/character/archetypes/rogue|Rogue]]"
 level: 2
 role: player
 noteicon: player
-location: party
-ancestry: aiuvarin
+location: "[[Kneepo's Court]]"
+ancestry: "[[half-elf|Half-Elf]]"
 status: active
 ---
 # Darak

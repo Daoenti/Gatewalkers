@@ -1,11 +1,11 @@
 ---
 player: Eric
-class: barbarian
+class: "[[zz_compendium/character/archetypes/barbarian|Barbarian]]"
 level: 2
 role: player
 noteicon: player
-location: party
-ancestry: orc
+location: "[[Kneepo's Court]]"
+ancestry: Orc
 status: active
 ---
 # Rhodd

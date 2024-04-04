@@ -1,11 +1,11 @@
 ---
 player: Vince
-class: familiar
+class: "[[familiar-sorcerer|Familiar (Sorcerer)]]"
 level: 2
 role: player
 noteicon: player
-location: party
-ancestry: monkey
+location: "[[Kneepo's Court]]"
+ancestry: "[[familiar-sorcerer|Familiar (Sorcerer)]]"
 status: active
 ---
 # Mutt
