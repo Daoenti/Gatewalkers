@@ -14,9 +14,9 @@ monsters:
   - "[[The Looksee Man]]"
 ---
 # The Bed Beyond the Library
-A painting depicting two slender black and white creatures adorns the wall behind a comfortable looking bed.  One figure appears to be [[Kneepo the Slim]] but the other creature seems to look similar but with slightly different features.  After closer examination it was noticed that the second figure has features strangely like [[Maialen]]'s.  [[J Seeral]] attempted the same test we had used before, and covering the painting representation of her eyes caused her to feel a connection to the painting.  [[Maialen]] cut her likeness out of the painting, but when cutting it out, the eyes on the representation of [[Kneepo the Slim]] blinked...
+A painting depicting two slender black and white creatures adorns the wall behind a comfortable looking bed.  One figure appears to be [[Kneepo the Slim]] but the other creature seems to look similar but with slightly different features.  After closer examination it was noticed that the second figure has features strangely like [[Maialen]]'s.  [[J Seeral]] attempted the same test we had used before, and covering the painting representation of her eyes caused her to feel a connection to the painting.  [[Maialen]] cut her likeness out of the painting, but when cutting it out, the eyes on the representation of [[Kneepo the Slim]] blinked. [[Rhodd]] flipped a table.
 
-[[J Seeral]] looked under the bed, something flittered.  A lone tooth fairy flew out, giving it an offering of the gold molar we found earlier he traded me the tooth he had, a [[bloodseeker-beak|Bloodseeker Beak]].  [[Rhodd]] flipped a table, which drew the attention of...
+[[J Seeral]] looked under the bed, something flittered.  A lone tooth fairy flew out, giving it an offering of the gold molar we found earlier he traded me the tooth he had, a [[bloodseeker-beak|Bloodseeker Beak]].
 
 # The Shadow Lady
 A shadowy visage of a lady wearing a mask and a white suit stained in blood appeared and is instantly aggressive toward [[Maialen]].  She is viciously jealous of [[Maialen]], perhaps [[Kneepo the Slim]] wants [[Maialen]] for a bride.  We learn that she is a type of fae called a [[Shae]].  She eventually succumbed to us after nearly killing [[Maialen]].
