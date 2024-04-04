@@ -18,8 +18,7 @@ A painting depicting two slender black and white creatures adorns the wall behin
 I looked under the bed, something flittered.  A lone tooth fairy flew out, giving it an offering of the gold molar we found earlier he traded me the tooth he had, a [[bloodseeker-beak|Bloodseeker Beak]].
 
 # The Shadow Lady
-A shadowy visage of a lady wearing a white suit stained in blood appears and is instantly aggressive toward [[Maialen]].  She is jealous of [[Maialen]], perhaps [[Kneepo the Slim]] wants [[Maialen]] for a bride.  She is a Shae from the shadow lands. 
+A shadowy visage of a lady wearing a mask and a white suit stained in blood appeared and is instantly aggressive toward [[Maialen]].  She is viciously jealous of [[Maialen]], perhaps [[Kneepo the Slim]] wants [[Maialen]] for a bride.  We learn that she is a type of fae called a [[Shae]].
 
 # The Amber Tree
-![[Pasted image 20240402211314.png]]
-[[Monsters/The Looksee Man]] attacks us.  Reproduction pods exist in the tree, he made a frog with bunny ears.
+![[Pasted image 20240402211314.png|inlL|150]][[The Looksee Man]] attacked us, saying that it's not finished yet and we are too early.  Two large amber colored "reproduction" pods are in the tree. [[Maialen]]threatened one of the reproduction pods which sent [[The Looksee Man]] into a rampage.  After [[J Seeral]] said he would destroy the other pod if [[The Looksee Man]] wouldn't stop and answer our questions.  During the discussions we found that the pods were being used to transfer the traits of one thing to another thing.  [[The Looksee Man]] doesn't know the limits of it yet but he knows it's not stable and not ready to be used, however he did show us a bunny and a frog that he transposed the features of, the bunny having a frog like tongue and the frog having long bunny ears.
