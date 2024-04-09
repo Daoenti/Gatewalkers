@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/15 - The Comfortable Night.md",
-                "mode": "preview",
-                "source": true
+                "file": "Story/16 - Working.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story/15 - The Comfortable Night.md",
+                "file": "Story/16 - Working.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Story/15 - The Comfortable Night.md",
+                "file": "Story/16 - Working.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Story/15 - The Comfortable Night.md"
+                "file": "Story/16 - Working.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Story/15 - The Comfortable Night.md"
+                "file": "Story/16 - Working.md"
               }
             }
           },
@@ -202,15 +202,19 @@
   },
   "active": "cb51c35b0f754e11",
   "lastOpenFiles": [
-    "Dashboard.md",
-    "People/PC/Mutt.md",
-    "zz_compendium/feats/familiar-mascot-apg.md",
-    "People/PC/Maialen.md",
-    "People/PC/Darak.md",
-    "People/PC/J Seeral.md",
-    "zz_templates/t_people.md",
-    "People/PC/Rhodd.md",
     "Story/15 - The Comfortable Night.md",
+    "Story/16 - Working.md",
+    "zz_templates/t_story.md",
+    "People/PC/Darak.md",
+    "People/PC/Ghost.md",
+    "People/PC/J Seeral.md",
+    "People/PC/Maialen.md",
+    "People/PC/Mutt.md",
+    "People/PC/Rhodd.md",
+    "People/PC/Talon.md",
+    "zz_templates/t_people.md",
+    "Dashboard.md",
+    "zz_compendium/feats/familiar-mascot-apg.md",
     "Monsters/Shae.md",
     "Monsters/The Looksee Man.md",
     "zz_assets/Pasted image 20240402211314.png",
@@ -218,7 +222,6 @@
     "People/Dr. Rittalson.md",
     "Story/1 - Arrival.md",
     "Story/1 - Enubliet Curse.md",
-    "zz_templates/t_story.md",
     "People/Count Renalc.md",
     "Locations/Kneepo's Court.md",
     "Monsters/Metal Eyeball.md",
@@ -228,9 +231,6 @@
     "Story/13 - The Door in the Shadow.md",
     "zz_compendium/rules/traits/human.md",
     "Story/13 - Temp.md",
-    "People/Delphon.md",
-    "People/Theonara Carollaestri.md",
-    "Locations/Sevenarches.md",
     "zz_assets/Pasted image 20240312220615.png",
     "zz_assets/Pasted image 20240227204526.png",
     "zz_assets/Pasted image 20240227204410.png",
