@@ -17,3 +17,4 @@ status: active
 ### Related Characters
 
 ## Picture
+![[Pasted image 20240409191641.png]]

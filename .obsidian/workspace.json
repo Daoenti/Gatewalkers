@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/16 - Working.md",
+                "file": "People/PC/Ghost.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story/16 - Working.md",
+                "file": "People/PC/Ghost.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Story/16 - Working.md",
+                "file": "People/PC/Ghost.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Story/16 - Working.md"
+                "file": "People/PC/Ghost.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Story/16 - Working.md"
+                "file": "People/PC/Ghost.md"
               }
             }
           },
@@ -159,6 +159,7 @@
               "state": {
                 "calendar": "ID_796afbbaf9c8",
                 "ephemeral": {
+                  "viewing": null,
                   "viewState": 1,
                   "displaying": {
                     "day": 15,
@@ -167,7 +168,9 @@
                   },
                   "displayDayNumber": false,
                   "hideEra": true,
-                  "displayMoons": true
+                  "displayAbsoluteYear": true,
+                  "displayMoons": true,
+                  "displayWeeks": false
                 }
               }
             }
@@ -203,12 +206,21 @@
   },
   "active": "cb51c35b0f754e11",
   "lastOpenFiles": [
+    "zz_assets/Pasted image 20240409191641.png",
+    "People/PC/Talon.md",
+    "zz_assets/Pasted image 20240409191552.png",
+    "zz_assets/Pasted image 20240409191417.png",
+    "zz_assets/Pasted image 20240319192953.png",
+    "zz_assets/Pasted image 20240402211314.png",
+    "zz_assets/Pasted image 20240409191359.png",
+    "zz_assets/Pasted image 20240206205534.png",
+    "zz_assets/Pasted image 20240206205508.png",
+    "Story/15 - The Comfortable Night.md",
+    "Story/16 - Working.md",
+    "People/Wisteria.md",
     "Dashboard.md",
     "People/PC/Ghost.md",
-    "People/PC/Talon.md",
     "People/PC/Mutt.md",
-    "Story/16 - Working.md",
-    "Story/15 - The Comfortable Night.md",
     "zz_templates/t_story.md",
     "People/PC/Darak.md",
     "People/PC/J Seeral.md",
@@ -218,7 +230,6 @@
     "zz_compendium/feats/familiar-mascot-apg.md",
     "Monsters/Shae.md",
     "Monsters/The Looksee Man.md",
-    "zz_assets/Pasted image 20240402211314.png",
     "Story/14 - Into The Court.md",
     "People/Dr. Rittalson.md",
     "Story/1 - Arrival.md",
@@ -226,19 +237,11 @@
     "People/Count Renalc.md",
     "Locations/Kneepo's Court.md",
     "Monsters/Metal Eyeball.md",
-    "zz_assets/Pasted image 20240319192953.png",
     "People/Centaur Woman.md",
     "zz_assets/Pasted image 20240319192924.png",
     "Story/13 - The Door in the Shadow.md",
-    "zz_compendium/rules/traits/human.md",
-    "Story/13 - Temp.md",
     "zz_assets/Pasted image 20240312220615.png",
     "zz_assets/Pasted image 20240227204526.png",
-    "zz_assets/Pasted image 20240227204410.png",
-    "zz_assets/Pasted image 20240213211824.png",
-    "zz_assets/Pasted image 20240213211752.png",
-    "zz_assets/Pasted image 20240213194806.png",
-    "zz_assets/Pasted image 20240213194643.png",
     "zz_scripts",
     "zz_templates",
     "zz_assets",

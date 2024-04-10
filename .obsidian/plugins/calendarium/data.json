@@ -183,82 +183,94 @@
         ],
         "eras": [
           {
-            "name": "Age of Serpents",
-            "format": "Year {{year}} - {{era_name}}",
-            "start": {
-              "year": 4720,
-              "month": 8,
-              "day": 15
-            },
-            "id": "ID_eb4af87babaa",
-            "restart": false,
-            "endsYear": false,
-            "event": false
-          },
-          {
             "name": "Age of Darkness",
             "format": "Year {{abs_year}} - {{era_name}}",
-            "start": {
+            "id": "ID_58e99a8b9b9a",
+            "endsYear": false,
+            "event": false,
+            "date": {
               "year": -5300,
               "month": 0,
               "day": 1
             },
-            "id": "ID_58e99a8b9b9a",
-            "restart": false,
-            "endsYear": false,
-            "event": false
+            "type": "era",
+            "isEvent": false,
+            "isStartingEra": false
           },
           {
             "name": "Age of Anguish",
             "format": "Year {{year}} - {{era_name}}",
-            "start": {
+            "id": "ID_3af84ada898a",
+            "endsYear": false,
+            "event": false,
+            "date": {
               "year": -4500,
               "month": 8,
               "day": 1
             },
-            "id": "ID_3af84ada898a",
-            "restart": false,
-            "endsYear": false,
-            "event": false
+            "type": "era",
+            "isEvent": false,
+            "isStartingEra": false
           },
           {
             "name": "Age of Destiny",
             "format": "Year {{year}} - {{era_name}}",
-            "start": {
+            "id": "ID_abc87ad9fbfb",
+            "endsYear": false,
+            "event": false,
+            "date": {
               "year": -3500,
               "month": 8,
               "day": 1
             },
-            "id": "ID_abc87ad9fbfb",
-            "restart": false,
-            "endsYear": false,
-            "event": false
+            "type": "era",
+            "isEvent": false,
+            "isStartingEra": false
           },
           {
             "name": "Age of Enthronement",
             "format": "Year {{year}} AR - {{era_name}}",
-            "start": {
+            "id": "ID_19197be9dac8",
+            "endsYear": false,
+            "event": false,
+            "date": {
               "year": 1,
               "month": 8,
               "day": 1
             },
-            "id": "ID_19197be9dac8",
-            "restart": false,
-            "endsYear": false,
-            "event": false
+            "type": "era",
+            "isEvent": false,
+            "isStartingEra": false
           },
           {
             "name": "Age of Lost Omens",
             "format": "Year {{year}} AR - {{era_name}}",
-            "start": {
+            "id": "ID_7b585b5bd9ea",
+            "endsYear": false,
+            "event": false,
+            "date": {
               "year": 4606,
               "month": 8,
               "day": 1
             },
-            "id": "ID_7b585b5bd9ea",
-            "restart": false,
+            "type": "era",
+            "isEvent": false,
+            "isStartingEra": false
+          },
+          {
+            "name": "Age of Serpents",
+            "format": "Year {{year}} - {{era_name}}",
+            "id": "ID_eb4af87babaa",
             "endsYear": false,
-            "event": false
+            "event": false,
+            "date": {
+              "year": 4720,
+              "month": 8,
+              "day": 15
+            },
+            "type": "era",
+            "isEvent": false,
+            "isStartingEra": false
           }
         ]
       },
@@ -274,15 +286,16 @@
           "id": "824492",
           "note": null,
           "date": {
-            "day": null,
             "year": null,
-            "month": null
+            "month": null,
+            "day": null
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Undated"
         },
         {
           "name": "Winter Solstice",
@@ -290,15 +303,16 @@
           "id": "824493",
           "note": null,
           "date": {
-            "day": null,
             "year": null,
-            "month": null
+            "month": null,
+            "day": null
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Undated"
         },
         {
           "name": "Spring Equinox",
@@ -306,15 +320,16 @@
           "id": "824494",
           "note": null,
           "date": {
-            "day": null,
             "year": null,
-            "month": null
+            "month": null,
+            "day": null
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Undated"
         },
         {
           "name": "Autumn Equinox",
@@ -322,15 +337,16 @@
           "id": "824495",
           "note": null,
           "date": {
-            "day": null,
             "year": null,
-            "month": null
+            "month": null,
+            "day": null
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Undated"
         },
         {
           "name": "Eternal Kiss",
@@ -338,15 +354,16 @@
           "id": "824496",
           "note": null,
           "date": {
-            "day": null,
             "year": null,
-            "month": null
+            "month": null,
+            "day": null
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Undated"
         },
         {
           "name": "Longnight",
@@ -354,15 +371,22 @@
           "id": "824497",
           "note": null,
           "date": {
-            "day": null,
-            "year": null,
+            "day": [
+              null,
+              null
+            ],
+            "year": [
+              null,
+              null
+            ],
             "month": 0
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Foundation Day",
@@ -371,14 +395,18 @@
           "note": null,
           "date": {
             "day": 1,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 0
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Pjallarane Day",
@@ -387,14 +415,18 @@
           "note": null,
           "date": {
             "day": 1,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 0
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Vault Day",
@@ -403,14 +435,18 @@
           "note": null,
           "date": {
             "day": 6,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 0
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Ruby Prince's Birthday",
@@ -419,14 +455,18 @@
           "note": null,
           "date": {
             "day": 20,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 0
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Merrymead",
@@ -435,14 +475,18 @@
           "note": null,
           "date": {
             "day": 2,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 1
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "King Eodred II's Birthday",
@@ -451,14 +495,18 @@
           "note": null,
           "date": {
             "day": 16,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 1
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Loyalty Day",
@@ -467,14 +515,18 @@
           "note": null,
           "date": {
             "day": 19,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 1
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Fateless Day",
@@ -483,14 +535,18 @@
           "note": null,
           "date": {
             "day": 29,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 1
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Golemwalk Parade",
@@ -498,15 +554,22 @@
           "id": "824506",
           "note": null,
           "date": {
-            "day": null,
-            "year": null,
+            "day": [
+              null,
+              null
+            ],
+            "year": [
+              null,
+              null
+            ],
             "month": 2
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Day of Bones",
@@ -515,14 +578,18 @@
           "note": null,
           "date": {
             "day": 5,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 2
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Sable Company Founding Day",
@@ -531,14 +598,18 @@
           "note": null,
           "date": {
             "day": 6,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 2
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Night of Tears",
@@ -547,14 +618,18 @@
           "note": null,
           "date": {
             "day": 7,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 2
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Kaliashahrim",
@@ -563,14 +638,18 @@
           "note": null,
           "date": {
             "day": 13,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 2
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Conquest Day",
@@ -579,14 +658,18 @@
           "note": null,
           "date": {
             "day": 26,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 2
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Days of Wrath",
@@ -594,15 +677,16 @@
           "id": "824512",
           "note": null,
           "date": {
-            "day": null,
             "year": null,
-            "month": null
+            "month": null,
+            "day": null
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Undated"
         },
         {
           "name": "Firstbloom",
@@ -610,15 +694,16 @@
           "id": "824513",
           "note": null,
           "date": {
-            "day": null,
             "year": null,
-            "month": null
+            "month": null,
+            "day": null
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Undated"
         },
         {
           "name": "First Cut",
@@ -626,15 +711,16 @@
           "id": "824514",
           "note": null,
           "date": {
-            "day": null,
             "year": null,
-            "month": null
+            "month": null,
+            "day": null
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Undated"
         },
         {
           "name": "Currentseve",
@@ -643,14 +729,18 @@
           "note": null,
           "date": {
             "day": 7,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 3
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Taxfest",
@@ -659,14 +749,18 @@
           "note": null,
           "date": {
             "day": 15,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 3
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Wrights of Augustana",
@@ -675,14 +769,18 @@
           "note": null,
           "date": {
             "day": 16,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 3
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Gala of Sails",
@@ -691,14 +789,18 @@
           "note": null,
           "date": {
             "day": 27,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 3
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Remembrance Moon",
@@ -706,15 +808,22 @@
           "id": "824519",
           "note": null,
           "date": {
-            "day": null,
-            "year": null,
+            "day": [
+              null,
+              null
+            ],
+            "year": [
+              null,
+              null
+            ],
             "month": 4
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Angel Day",
@@ -723,14 +832,18 @@
           "note": null,
           "date": {
             "day": 31,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 4
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Old-Mage Day",
@@ -739,14 +852,18 @@
           "note": null,
           "date": {
             "day": 13,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 4
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Multiple Events",
@@ -754,15 +871,16 @@
           "id": "824522",
           "note": null,
           "date": {
-            "day": null,
             "year": null,
-            "month": null
+            "month": null,
+            "day": null
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Undated"
         },
         {
           "name": "Burning Blades",
@@ -771,14 +889,18 @@
           "note": null,
           "date": {
             "day": 10,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 5
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Liberty Day",
@@ -787,14 +909,18 @@
           "note": null,
           "date": {
             "day": 3,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 5
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Talon Tag",
@@ -803,14 +929,18 @@
           "note": null,
           "date": {
             "day": 21,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 5
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Riverwind Festival",
@@ -819,14 +949,18 @@
           "note": null,
           "date": {
             "day": 22,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 5
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Inheritor's Ascendance ",
@@ -835,14 +969,18 @@
           "note": null,
           "date": {
             "day": 1,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 7
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "First Crusader Day",
@@ -851,14 +989,18 @@
           "note": null,
           "date": {
             "day": 6,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 7
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Day of Silenced Whispers",
@@ -867,14 +1009,18 @@
           "note": null,
           "date": {
             "day": 9,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 7
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Founding Day",
@@ -883,14 +1029,18 @@
           "note": null,
           "date": {
             "day": 10,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 7
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Armasse",
@@ -899,14 +1049,18 @@
           "note": null,
           "date": {
             "day": 16,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 7
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Saint Alika's Birthday",
@@ -915,14 +1069,18 @@
           "note": null,
           "date": {
             "day": 31,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 7
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Archerfeast",
@@ -931,14 +1089,18 @@
           "note": null,
           "date": {
             "day": 3,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 6
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Founding Festival",
@@ -947,14 +1109,18 @@
           "note": null,
           "date": {
             "day": 14,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 6
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Burning Night",
@@ -963,14 +1129,18 @@
           "note": null,
           "date": {
             "day": 17,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 6
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Kianidi Festival",
@@ -979,14 +1149,18 @@
           "note": null,
           "date": {
             "day": 15,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 6
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Harvest Moon",
@@ -994,15 +1168,22 @@
           "id": "824537",
           "note": null,
           "date": {
-            "day": null,
-            "year": null,
+            "day": [
+              null,
+              null
+            ],
+            "year": [
+              null,
+              null
+            ],
             "month": 8
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Multiple Events",
@@ -1010,15 +1191,16 @@
           "id": "824538",
           "note": null,
           "date": {
-            "day": null,
             "year": null,
-            "month": null
+            "month": null,
+            "day": null
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Undated"
         },
         {
           "name": "Signing Day",
@@ -1026,15 +1208,22 @@
           "id": "824539",
           "note": null,
           "date": {
-            "day": null,
-            "year": null,
+            "day": [
+              null,
+              null
+            ],
+            "year": [
+              null,
+              null
+            ],
             "month": 8
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Crabfest",
@@ -1042,15 +1231,22 @@
           "id": "824540",
           "note": null,
           "date": {
-            "day": null,
-            "year": null,
+            "day": [
+              null,
+              null
+            ],
+            "year": [
+              null,
+              null
+            ],
             "month": 8
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Feast of Szurpade",
@@ -1059,14 +1255,18 @@
           "note": null,
           "date": {
             "day": 26,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 8
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Day of Sundering",
@@ -1075,14 +1275,18 @@
           "note": null,
           "date": {
             "day": 29,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 8
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Admani Upastuti",
@@ -1090,15 +1294,22 @@
           "id": "824543",
           "note": null,
           "date": {
-            "day": null,
-            "year": null,
+            "day": [
+              null,
+              null
+            ],
+            "year": [
+              null,
+              null
+            ],
             "month": 9
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Ascendance Day",
@@ -1107,14 +1318,18 @@
           "note": null,
           "date": {
             "day": 6,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 9
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Bastion Day",
@@ -1130,7 +1345,8 @@
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Jestercap",
@@ -1139,14 +1355,18 @@
           "note": null,
           "date": {
             "day": 27,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 9
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Feast of the Survivors",
@@ -1154,15 +1374,22 @@
           "id": "824547",
           "note": null,
           "date": {
-            "day": null,
-            "year": null,
+            "day": [
+              null,
+              null
+            ],
+            "year": [
+              null,
+              null
+            ],
             "month": 9
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Kraken Carnival",
@@ -1171,14 +1398,18 @@
           "note": null,
           "date": {
             "day": 15,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 9
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Independence Day",
@@ -1187,14 +1418,18 @@
           "note": null,
           "date": {
             "day": 5,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 10
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Seven Veils",
@@ -1203,14 +1438,18 @@
           "note": null,
           "date": {
             "day": 23,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 10
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Abjurant Day",
@@ -1219,14 +1458,18 @@
           "note": null,
           "date": {
             "day": 8,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 10
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Great Fire Remembrance",
@@ -1235,14 +1478,18 @@
           "note": null,
           "date": {
             "day": 13,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 10
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Even-Tongued Day",
@@ -1251,14 +1498,18 @@
           "note": null,
           "date": {
             "day": 14,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 10
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Evoking Day",
@@ -1267,14 +1518,18 @@
           "note": null,
           "date": {
             "day": 18,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 10
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Baptism of Ice",
@@ -1283,14 +1538,18 @@
           "note": null,
           "date": {
             "day": 24,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 10
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Transmutatum",
@@ -1299,14 +1558,18 @@
           "note": null,
           "date": {
             "day": 28,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 10
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Winter Week",
@@ -1314,15 +1577,22 @@
           "id": "824557",
           "note": null,
           "date": {
-            "day": null,
-            "year": null,
+            "day": [
+              null,
+              null
+            ],
+            "year": [
+              null,
+              null
+            ],
             "month": 11
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "The Shadowchaining",
@@ -1331,14 +1601,18 @@
           "note": null,
           "date": {
             "day": 1,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 11
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Pseudodragon Festival",
@@ -1347,14 +1621,18 @@
           "note": null,
           "date": {
             "day": 7,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 11
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Ascension Day",
@@ -1363,14 +1641,18 @@
           "note": null,
           "date": {
             "day": 11,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 11
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Winterbloom",
@@ -1379,14 +1661,18 @@
           "note": null,
           "date": {
             "day": 15,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 11
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Final Day",
@@ -1395,14 +1681,18 @@
           "note": null,
           "date": {
             "day": 31,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 11
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Night of the Pale",
@@ -1411,14 +1701,18 @@
           "note": null,
           "date": {
             "day": 31,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 11
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Turning Day",
@@ -1427,14 +1721,18 @@
           "note": null,
           "date": {
             "day": 31,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 11
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Ritual of Stardust",
@@ -1442,15 +1740,16 @@
           "id": "824565",
           "note": null,
           "date": {
-            "day": null,
             "year": null,
-            "month": null
+            "month": null,
+            "day": null
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Undated"
         },
         {
           "name": "Planting Week",
@@ -1458,15 +1757,16 @@
           "id": "824566",
           "note": null,
           "date": {
-            "day": null,
             "year": null,
-            "month": null
+            "month": null,
+            "day": null
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Undated"
         },
         {
           "name": "Ascendance Night",
@@ -1475,14 +1775,18 @@
           "note": null,
           "date": {
             "day": 2,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 4
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Azvadeva Dejal",
@@ -1491,14 +1795,18 @@
           "note": null,
           "date": {
             "day": 3,
-            "year": null,
+            "year": [
+              null,
+              null
+            ],
             "month": 4
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Goblin Flea Market",
@@ -1506,15 +1814,16 @@
           "id": "824569",
           "note": null,
           "date": {
-            "day": null,
             "year": null,
-            "month": null
+            "month": null,
+            "day": null
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Undated"
         },
         {
           "name": "Breaching Festival",
@@ -1522,15 +1831,22 @@
           "id": "824570",
           "note": null,
           "date": {
-            "day": null,
-            "year": null,
+            "day": [
+              null,
+              null
+            ],
+            "year": [
+              null,
+              null
+            ],
             "month": 4
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Silverglazer Sunday",
@@ -1538,15 +1854,16 @@
           "id": "824571",
           "note": null,
           "date": {
-            "day": null,
             "year": null,
-            "month": null
+            "month": null,
+            "day": null
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Undated"
         },
         {
           "name": "Batul al-Alim",
@@ -1554,15 +1871,22 @@
           "id": "824572",
           "note": null,
           "date": {
-            "day": null,
-            "year": null,
+            "day": [
+              null,
+              null
+            ],
+            "year": [
+              null,
+              null
+            ],
             "month": 1
           },
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
-          }
+          },
+          "type": "Date"
         }
       ],
       "id": "ID_796afbbaf9c8",
@@ -1609,8 +1933,8 @@
   "parseDates": false,
   "version": {
     "major": 1,
-    "minor": 0,
-    "patch": 11,
+    "minor": 2,
+    "patch": 2,
     "beta": null
   },
   "debug": false,
