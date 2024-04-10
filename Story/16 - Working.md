@@ -14,4 +14,5 @@ desc:
 monsters:
 ---
 # The Person in the Pod
-[[Talon]] emerged from one of the pods.
+[[Talon]] emerged from one of the pods.  We ended up killing [[The Looksee Man]].
+
