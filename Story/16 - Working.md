@@ -13,4 +13,5 @@ title:
 desc: 
 monsters:
 ---
-# The Title
+# The Person in the Pod
+[[Talon]] emerged from one of the pods.

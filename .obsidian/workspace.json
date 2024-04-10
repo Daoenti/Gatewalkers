@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/PC/Ghost.md",
+                "file": "Story/16 - Working.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/PC/Ghost.md",
+                "file": "Story/16 - Working.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/PC/Ghost.md",
+                "file": "Story/16 - Working.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/PC/Ghost.md"
+                "file": "Story/16 - Working.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "People/PC/Ghost.md"
+                "file": "Story/16 - Working.md"
               }
             }
           },
@@ -206,6 +206,7 @@
   },
   "active": "cb51c35b0f754e11",
   "lastOpenFiles": [
+    "People/PC/Ghost.md",
     "zz_assets/Pasted image 20240409191641.png",
     "People/PC/Talon.md",
     "zz_assets/Pasted image 20240409191552.png",
@@ -219,7 +220,6 @@
     "Story/16 - Working.md",
     "People/Wisteria.md",
     "Dashboard.md",
-    "People/PC/Ghost.md",
     "People/PC/Mutt.md",
     "zz_templates/t_story.md",
     "People/PC/Darak.md",
@@ -241,7 +241,6 @@
     "zz_assets/Pasted image 20240319192924.png",
     "Story/13 - The Door in the Shadow.md",
     "zz_assets/Pasted image 20240312220615.png",
-    "zz_assets/Pasted image 20240227204526.png",
     "zz_scripts",
     "zz_templates",
     "zz_assets",
