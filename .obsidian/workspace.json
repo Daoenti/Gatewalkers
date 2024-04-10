@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Kneepo the Slim.md",
+                "file": "Story/16 - Working.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Kneepo the Slim.md",
+                "file": "Story/16 - Working.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Kneepo the Slim.md",
+                "file": "Story/16 - Working.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Kneepo the Slim.md"
+                "file": "Story/16 - Working.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "People/Kneepo the Slim.md"
+                "file": "Story/16 - Working.md"
               }
             }
           },
@@ -206,6 +206,7 @@
   },
   "active": "cb51c35b0f754e11",
   "lastOpenFiles": [
+    "People/Kneepo the Slim.md",
     "zz_assets/Pasted image 20240409203151.png",
     "Story/16 - Working.md",
     "zz_assets/Pasted image 20240409202245.png",
@@ -240,7 +241,6 @@
     "Locations/Kneepo's Court.md",
     "Monsters/Metal Eyeball.md",
     "People/Centaur Woman.md",
-    "zz_assets/Pasted image 20240319192924.png",
     "Story/13 - The Door in the Shadow.md",
     "zz_scripts",
     "zz_templates",
