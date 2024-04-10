@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/16 - Working.md",
+                "file": "People/Kneepo the Slim.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story/16 - Working.md",
+                "file": "People/Kneepo the Slim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Story/16 - Working.md",
+                "file": "People/Kneepo the Slim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Story/16 - Working.md"
+                "file": "People/Kneepo the Slim.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Story/16 - Working.md"
+                "file": "People/Kneepo the Slim.md"
               }
             }
           },
@@ -206,6 +206,8 @@
   },
   "active": "cb51c35b0f754e11",
   "lastOpenFiles": [
+    "zz_assets/Pasted image 20240409203151.png",
+    "Story/16 - Working.md",
     "zz_assets/Pasted image 20240409202245.png",
     "People/PC/Ghost.md",
     "zz_assets/Pasted image 20240409191641.png",
@@ -218,7 +220,6 @@
     "zz_assets/Pasted image 20240206205534.png",
     "zz_assets/Pasted image 20240206205508.png",
     "Story/15 - The Comfortable Night.md",
-    "Story/16 - Working.md",
     "People/Wisteria.md",
     "Dashboard.md",
     "People/PC/Mutt.md",
@@ -241,7 +242,6 @@
     "People/Centaur Woman.md",
     "zz_assets/Pasted image 20240319192924.png",
     "Story/13 - The Door in the Shadow.md",
-    "zz_assets/Pasted image 20240312220615.png",
     "zz_scripts",
     "zz_templates",
     "zz_assets",
