@@ -1,12 +1,12 @@
 ---
-player:
-class:
-level:
-role:
-noteicon:
-location:
-ancestry:
-status:
+player: Travis
+class: "[[familiar-sorcerer|Familiar (Sorcerer)]]"
+level: 2
+role: player
+noteicon: 
+location: "[[Kneepo's Court]]"
+ancestry: "[[familiar-sorcerer|Familiar (Sorcerer)]]"
+status: active
 ---
 
 # Ghost

@@ -166,6 +166,7 @@
                     "year": 4723
                   },
                   "displayDayNumber": false,
+                  "hideEra": true,
                   "displayMoons": true
                 }
               }
@@ -202,18 +203,18 @@
   },
   "active": "cb51c35b0f754e11",
   "lastOpenFiles": [
-    "Story/15 - The Comfortable Night.md",
+    "Dashboard.md",
+    "People/PC/Ghost.md",
+    "People/PC/Talon.md",
+    "People/PC/Mutt.md",
     "Story/16 - Working.md",
+    "Story/15 - The Comfortable Night.md",
     "zz_templates/t_story.md",
     "People/PC/Darak.md",
-    "People/PC/Ghost.md",
     "People/PC/J Seeral.md",
     "People/PC/Maialen.md",
-    "People/PC/Mutt.md",
     "People/PC/Rhodd.md",
-    "People/PC/Talon.md",
     "zz_templates/t_people.md",
-    "Dashboard.md",
     "zz_compendium/feats/familiar-mascot-apg.md",
     "Monsters/Shae.md",
     "Monsters/The Looksee Man.md",
