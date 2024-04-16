@@ -18,4 +18,4 @@ monsters:
 
 # The Ballad of the Badass Hedgehog
 ![[Pasted image 20240409202245.png]]
-We're fighting [[Kneepo the Slim]] already!  [[Hubert Hedge]] critted twice in a row!  tttt
+We're fighting [[Kneepo the Slim]] already!  [[Hubert Hedge]] critted twice in a row!
