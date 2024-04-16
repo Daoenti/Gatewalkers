@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/1 - Arrival.md",
+                "file": "Story/17 - Working.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story/1 - Arrival.md",
+                "file": "Story/17 - Working.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Story/1 - Arrival.md",
+                "file": "Story/17 - Working.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Story/1 - Arrival.md"
+                "file": "Story/17 - Working.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Story/1 - Arrival.md"
+                "file": "Story/17 - Working.md"
               }
             }
           },
@@ -159,16 +159,24 @@
               "state": {
                 "calendar": "ID_796afbbaf9c8",
                 "ephemeral": {
+                  "viewing": {
+                    "day": 16,
+                    "month": 0,
+                    "year": 4723
+                  },
                   "viewState": 1,
                   "displaying": {
-                    "day": 15,
+                    "day": 16,
                     "month": 0,
                     "year": 4723
                   },
                   "displayDayNumber": false,
+                  "hideEra": true,
+                  "displayAbsoluteYear": true,
                   "displayMoons": true
                 },
-                "id": "ID_5ac99a79f858"
+                "id": "ID_5ac99a79f858",
+                "child": "ID_19bb3ada1ada"
               }
             }
           },
@@ -182,6 +190,24 @@
           }
         ],
         "currentTab": 6
+      },
+      {
+        "id": "38fa409a9eeedc52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba423328182cf23e",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_796afbbaf9c8",
+                "id": "ID_19bb3ada1ada",
+                "parent": "ID_5ac99a79f858"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -201,8 +227,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "cb51c35b0f754e11",
+  "active": "ba423328182cf23e",
   "lastOpenFiles": [
+    "Story/14 - Into The Court.md",
+    "Story/17 - Working.md",
+    "Story/1 - Arrival.md",
     "People/Hubert Hedge.md",
     "Story/16 - Working.md",
     "People/Kneepo the Slim.md",
@@ -231,14 +260,11 @@
     "zz_compendium/feats/familiar-mascot-apg.md",
     "Monsters/Shae.md",
     "Monsters/The Looksee Man.md",
-    "Story/14 - Into The Court.md",
     "People/Dr. Rittalson.md",
-    "Story/1 - Arrival.md",
     "Story/1 - Enubliet Curse.md",
     "People/Count Renalc.md",
     "Locations/Kneepo's Court.md",
     "Monsters/Metal Eyeball.md",
-    "People/Centaur Woman.md",
     "zz_scripts",
     "zz_templates",
     "zz_assets",
