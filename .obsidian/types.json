@@ -27,6 +27,7 @@
     "session_number": "number",
     "monsters": "multitext",
     "excalidraw-open-md": "checkbox",
-    "level": "number"
+    "level": "number",
+    "excalidraw-export-embed-scene": "checkbox"
   }
 }

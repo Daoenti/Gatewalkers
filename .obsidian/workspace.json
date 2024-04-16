@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/16 - Working.md",
+                "file": "Story/1 - Arrival.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story/16 - Working.md",
+                "file": "Story/1 - Arrival.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Story/16 - Working.md",
+                "file": "Story/1 - Arrival.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Story/16 - Working.md"
+                "file": "Story/1 - Arrival.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Story/16 - Working.md"
+                "file": "Story/1 - Arrival.md"
               }
             }
           },
@@ -159,7 +159,6 @@
               "state": {
                 "calendar": "ID_796afbbaf9c8",
                 "ephemeral": {
-                  "viewing": null,
                   "viewState": 1,
                   "displaying": {
                     "day": 15,
@@ -167,11 +166,9 @@
                     "year": 4723
                   },
                   "displayDayNumber": false,
-                  "hideEra": true,
-                  "displayAbsoluteYear": true,
-                  "displayMoons": true,
-                  "displayWeeks": false
-                }
+                  "displayMoons": true
+                },
+                "id": "ID_5ac99a79f858"
               }
             }
           },
