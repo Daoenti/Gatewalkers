@@ -13,4 +13,3 @@ desc:
 monsters:
 ---
 # Kneepo Has Fallen
-

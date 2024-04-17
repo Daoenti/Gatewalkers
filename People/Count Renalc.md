@@ -10,7 +10,7 @@ status:
 ---
 
 # Count Renalc
-Fae patron for people planning betrayal.
+Fae patron for people planning betrayal.  He is currently missing.
 
 https://pathfinderwiki.com/wiki/Count_Ranalc
 
