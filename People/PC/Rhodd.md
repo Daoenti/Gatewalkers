@@ -4,7 +4,7 @@ class: "[[zz_compendium/character/archetypes/barbarian|Barbarian]]"
 level: 2
 role: player
 noteicon: player
-location: "[[Kneepo's Court]]"
+location: "[[Mwangi Expanse]]"
 ancestry: Orc
 status: active
 ---

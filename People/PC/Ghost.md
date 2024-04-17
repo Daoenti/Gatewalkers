@@ -4,7 +4,7 @@ class: "[[familiar-sorcerer|Familiar (Sorcerer)]]"
 level: 2
 role: player
 noteicon: 
-location: "[[Kneepo's Court]]"
+location: "[[Mwangi Expanse]]"
 ancestry: "[[familiar-sorcerer|Familiar (Sorcerer)]]"
 status: active
 ---

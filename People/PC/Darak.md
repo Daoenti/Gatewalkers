@@ -4,7 +4,7 @@ class: "[[zz_compendium/character/archetypes/rogue|Rogue]]"
 level: 2
 role: player
 noteicon: player
-location: "[[Kneepo's Court]]"
+location: "[[Mwangi Expanse]]"
 ancestry: "[[half-elf|Half-Elf]]"
 status: active
 ---

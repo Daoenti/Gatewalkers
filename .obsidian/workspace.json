@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/17 - Leaving Las Thin Lands.md",
-                "mode": "source",
+                "file": "Dashboard.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story/17 - Leaving Las Thin Lands.md",
+                "file": "Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Story/17 - Leaving Las Thin Lands.md",
+                "file": "Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Story/17 - Leaving Las Thin Lands.md"
+                "file": "Dashboard.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Story/17 - Leaving Las Thin Lands.md"
+                "file": "Dashboard.md"
               }
             }
           },
@@ -229,8 +229,20 @@
   },
   "active": "cb51c35b0f754e11",
   "lastOpenFiles": [
-    "Locations/Mwangi Expanse.md",
+    "People/PC/Darak.md",
+    "People/PC/Retired/Val Aelleyer.md",
+    "People/PC/Retired/Snack.md",
+    "People/PC/Retired/Faren.md",
+    "People/PC/Retired/Evaki.md",
+    "People/PC/Ghost.md",
+    "People/PC/J Seeral.md",
+    "Locations/Kneepo's Court.md",
+    "People/PC/Maialen.md",
+    "People/PC/Mutt.md",
+    "People/PC/Rhodd.md",
+    "People/PC/Talon.md",
     "Story/17 - Leaving Las Thin Lands.md",
+    "Locations/Mwangi Expanse.md",
     "Story/16 - The Person in the Pod.md",
     "Story/15 - The Comfortable Night.md",
     "Story/14 - Into The Court.md",
@@ -242,9 +254,7 @@
     "People/Kneepo the Slim.md",
     "zz_assets/Pasted image 20240409203151.png",
     "zz_assets/Pasted image 20240409202245.png",
-    "People/PC/Ghost.md",
     "zz_assets/Pasted image 20240409191641.png",
-    "People/PC/Talon.md",
     "zz_assets/Pasted image 20240409191552.png",
     "zz_assets/Pasted image 20240409191417.png",
     "zz_assets/Pasted image 20240319192953.png",
@@ -253,18 +263,8 @@
     "zz_assets/Pasted image 20240206205534.png",
     "zz_assets/Pasted image 20240206205508.png",
     "People/Wisteria.md",
-    "People/PC/Mutt.md",
     "zz_templates/t_story.md",
-    "People/PC/Darak.md",
-    "People/PC/J Seeral.md",
-    "People/PC/Maialen.md",
-    "People/PC/Rhodd.md",
     "zz_templates/t_people.md",
-    "zz_compendium/feats/familiar-mascot-apg.md",
-    "Monsters/Shae.md",
-    "Monsters/The Looksee Man.md",
-    "People/Dr. Rittalson.md",
-    "Story/1 - Enubliet Curse.md",
     "zz_scripts",
     "zz_templates",
     "zz_assets",

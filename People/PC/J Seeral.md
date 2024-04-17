@@ -4,7 +4,7 @@ class: "[[zz_compendium/character/archetypes/cleric|Cleric]]"
 level: 2
 role: player
 noteicon: player
-location: "[[Kneepo's Court]]"
+location: "[[Mwangi Expanse]]"
 ancestry: "[[human|Human]]"
 status: active
 ---
