@@ -6,6 +6,7 @@ players:
   - "[[J Seeral]]"
   - "[[Talon]]"
   - "[[Maialen]]"
+  - "[[Rhodd]]"
 session_number: 17
 title: 
 desc: 
