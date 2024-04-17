@@ -17,4 +17,4 @@ monsters:
 A burnt room, scorched floors and walls, houses an iron cage.  In the corner there is a carving showing that [[Kneepo the Slim]] may have been a prisoner here.
 
 # The Walls Attack
-After investigating some glowing runes on the wall, a spear juts out of the runes and the fight is on.
+After investigating some glowing runes on the wall, a spear juts out of the runes and the fight is on.  Hubert was pulled across the room by [[Talon]]'s [[telekinetic-hand-pc1|Telekinetic Hand]].
