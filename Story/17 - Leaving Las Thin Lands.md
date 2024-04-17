@@ -22,3 +22,7 @@ After investigating some glowing runes on the wall, a spear juts out of the rune
 
 # Lost in the Woods
 [[Talon]] had a dream and awoke with an awakened power. [[Maialen]] can feel something and we may have a direction to travel.  She senses a thread.
+
+# Through the Gateway
+We step through the gateway and are in a verdant jungle, we can once again detect which way is north.  We have ended up in the [[Mwangi Expanse]].
+
