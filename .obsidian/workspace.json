@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
-                "mode": "preview",
+                "file": "Story/17 - Leaving Las Thin Lands.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Story/17 - Leaving Las Thin Lands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Story/17 - Leaving Las Thin Lands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.md"
+                "file": "Story/17 - Leaving Las Thin Lands.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Dashboard.md"
+                "file": "Story/17 - Leaving Las Thin Lands.md"
               }
             }
           },
@@ -229,6 +229,8 @@
   },
   "active": "cb51c35b0f754e11",
   "lastOpenFiles": [
+    "zz_assets/Pasted image 20240416214706.png",
+    "Dashboard.md",
     "People/PC/Darak.md",
     "People/PC/Retired/Val Aelleyer.md",
     "People/PC/Retired/Snack.md",
@@ -247,7 +249,6 @@
     "Story/15 - The Comfortable Night.md",
     "Story/14 - Into The Court.md",
     "People/Count Renalc.md",
-    "Dashboard.md",
     "Story/1 - Arrival.md",
     "People/Hubert Hedge.md",
     "Story/16 - Working.md",
@@ -264,7 +265,6 @@
     "zz_assets/Pasted image 20240206205508.png",
     "People/Wisteria.md",
     "zz_templates/t_story.md",
-    "zz_templates/t_people.md",
     "zz_scripts",
     "zz_templates",
     "zz_assets",
