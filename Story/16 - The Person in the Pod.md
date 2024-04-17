@@ -17,5 +17,4 @@ monsters:
 [[Talon]] emerged from one of the pods.  We ended up killing [[The Looksee Man]].
 
 # The Ballad of the Badass Hedgehog
-![[Pasted image 20240409202245.png]]
-We're fighting [[Kneepo the Slim]] already!  [[Hubert Hedge]] critted twice in a row!
+![[Pasted image 20240409202245.png|left|200]]We're fighting [[Kneepo the Slim]] already!  [[Hubert Hedge]] critted twice in a row!

@@ -8,6 +8,7 @@ players:
   - "[[Talon]]"
   - "[[Maialen]]"
   - "[[Rhodd]]"
+  - "[[Darak]]"
 session_number: 17
 title: 
 desc: 
@@ -18,3 +19,6 @@ A burnt room, scorched floors and walls, houses an iron cage.  In the corner the
 
 # The Walls Attack
 After investigating some glowing runes on the wall, a spear juts out of the runes and the fight is on.  Hubert was pulled across the room by [[Talon]]'s [[telekinetic-hand-pc1|Telekinetic Hand]].
+
+# Lost in the Woods
+[[Talon]] had a dream and awoke with an awakened power.
