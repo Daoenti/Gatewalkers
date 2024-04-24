@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/17 - Leaving Las Thin Lands.md",
-                "mode": "source",
+                "file": "Story/15 - The Comfortable Night.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story/17 - Leaving Las Thin Lands.md",
+                "file": "Story/15 - The Comfortable Night.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Story/17 - Leaving Las Thin Lands.md",
+                "file": "Story/15 - The Comfortable Night.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Story/17 - Leaving Las Thin Lands.md"
+                "file": "Story/15 - The Comfortable Night.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Story/17 - Leaving Las Thin Lands.md"
+                "file": "Story/15 - The Comfortable Night.md"
               }
             }
           },
@@ -229,6 +229,8 @@
   },
   "active": "cb51c35b0f754e11",
   "lastOpenFiles": [
+    "Story/17 - Leaving Las Thin Lands.md",
+    "Story/16 - The Person in the Pod.md",
     "zz_assets/Pasted image 20240416214706.png",
     "Dashboard.md",
     "People/PC/Darak.md",
@@ -243,9 +245,7 @@
     "People/PC/Mutt.md",
     "People/PC/Rhodd.md",
     "People/PC/Talon.md",
-    "Story/17 - Leaving Las Thin Lands.md",
     "Locations/Mwangi Expanse.md",
-    "Story/16 - The Person in the Pod.md",
     "Story/15 - The Comfortable Night.md",
     "Story/14 - Into The Court.md",
     "People/Count Renalc.md",
@@ -262,7 +262,6 @@
     "zz_assets/Pasted image 20240402211314.png",
     "zz_assets/Pasted image 20240409191359.png",
     "zz_assets/Pasted image 20240206205534.png",
-    "zz_assets/Pasted image 20240206205508.png",
     "People/Wisteria.md",
     "zz_templates/t_story.md",
     "zz_scripts",
