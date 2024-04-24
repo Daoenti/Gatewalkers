@@ -14,4 +14,5 @@ monsters:
 We swiftly finish off the monkey thing.
 
 # The Killer Snail and Friends
-After seeing stepping stones crossing the river [[J Seeral]] noticed one of the stones didn't look quite right.  After chucking a rock at the odd looking stone we noticed it was the shell of a very large snail.
+After seeing stepping stones crossing the river [[J Seeral]] noticed one of the stones didn't look quite right.  After chucking a rock at the odd looking stone we noticed it was the shell of a very large snail.  [[Rhodd]] slipped off the rocks but caught himself before being washed down river.  [[Maialen]] was knocked out but luckily managed to stay on the rock when she fell. After an intense fight it finally fled down river.
+
