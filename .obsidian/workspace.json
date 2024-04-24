@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/15 - The Comfortable Night.md",
-                "mode": "preview",
-                "source": true
+                "file": "Story/18 - In the Jungle the Mighty Jungle.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story/15 - The Comfortable Night.md",
+                "file": "Story/18 - In the Jungle the Mighty Jungle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Story/15 - The Comfortable Night.md",
+                "file": "Story/18 - In the Jungle the Mighty Jungle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Story/15 - The Comfortable Night.md"
+                "file": "Story/18 - In the Jungle the Mighty Jungle.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Story/15 - The Comfortable Night.md"
+                "file": "Story/18 - In the Jungle the Mighty Jungle.md"
               }
             }
           },
@@ -230,6 +230,8 @@
   "active": "cb51c35b0f754e11",
   "lastOpenFiles": [
     "Story/17 - Leaving Las Thin Lands.md",
+    "Story/18 - In the Jungle the Mighty Jungle.md",
+    "Story/15 - The Comfortable Night.md",
     "Story/16 - The Person in the Pod.md",
     "zz_assets/Pasted image 20240416214706.png",
     "Dashboard.md",
@@ -246,7 +248,6 @@
     "People/PC/Rhodd.md",
     "People/PC/Talon.md",
     "Locations/Mwangi Expanse.md",
-    "Story/15 - The Comfortable Night.md",
     "Story/14 - Into The Court.md",
     "People/Count Renalc.md",
     "Story/1 - Arrival.md",
