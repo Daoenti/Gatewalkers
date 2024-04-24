@@ -5,6 +5,9 @@ npcs:
 players:
   - "[[J Seeral]]"
   - "[[Talon]]"
+  - "[[Darak]]"
+  - "[[Maialen]]"
+  - "[[Rhodd]]"
 session_number: 18
 title: Working
 desc: 
