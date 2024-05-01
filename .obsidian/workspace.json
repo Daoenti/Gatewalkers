@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/18 - In the Jungle the Mighty Jungle.md",
+                "file": "Story/19 - The Elven Quarry.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story/18 - In the Jungle the Mighty Jungle.md",
+                "file": "Story/19 - The Elven Quarry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Story/18 - In the Jungle the Mighty Jungle.md",
+                "file": "Story/19 - The Elven Quarry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Story/18 - In the Jungle the Mighty Jungle.md"
+                "file": "Story/19 - The Elven Quarry.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Story/18 - In the Jungle the Mighty Jungle.md"
+                "file": "Story/19 - The Elven Quarry.md"
               }
             }
           },
@@ -229,8 +229,9 @@
   },
   "active": "cb51c35b0f754e11",
   "lastOpenFiles": [
-    "Story/17 - Leaving Las Thin Lands.md",
     "Story/18 - In the Jungle the Mighty Jungle.md",
+    "Story/19 - The Elven Quarry.md",
+    "Story/17 - Leaving Las Thin Lands.md",
     "Story/15 - The Comfortable Night.md",
     "Story/16 - The Person in the Pod.md",
     "zz_assets/Pasted image 20240416214706.png",
@@ -264,7 +265,6 @@
     "zz_assets/Pasted image 20240409191359.png",
     "zz_assets/Pasted image 20240206205534.png",
     "People/Wisteria.md",
-    "zz_templates/t_story.md",
     "zz_scripts",
     "zz_templates",
     "zz_assets",
