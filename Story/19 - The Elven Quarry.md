@@ -13,3 +13,4 @@ desc:
 monsters:
 ---
 # Attack from the Sky
+While riding the gondola we were attacked by two Pteranodons. 
