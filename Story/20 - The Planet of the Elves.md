@@ -13,3 +13,6 @@ desc:
 monsters:
 ---
 # The Cavern of Memories
+
+
+# Cave of Statues
