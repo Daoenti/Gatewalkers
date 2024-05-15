@@ -1,6 +1,7 @@
 ---
 locations:
   - "[[Mwangi Expanse]]"
+  - "[[Castrovel]]"
 npcs: 
 players:
   - "[[J Seeral]]"

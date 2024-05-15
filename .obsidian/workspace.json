@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/21 - Where are we.md",
+                "file": "Story/19 - The Elven Quarry.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story/21 - Where are we.md",
+                "file": "Story/19 - The Elven Quarry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Story/21 - Where are we.md",
+                "file": "Story/19 - The Elven Quarry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Story/21 - Where are we.md"
+                "file": "Story/19 - The Elven Quarry.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Story/21 - Where are we.md"
+                "file": "Story/19 - The Elven Quarry.md"
               }
             }
           },
@@ -229,12 +229,12 @@
   },
   "active": "cb51c35b0f754e11",
   "lastOpenFiles": [
+    "Story/20 - The Planet of the Elves.md",
+    "Story/19 - The Elven Quarry.md",
+    "Story/21 - Where are we.md",
     "zz_assets/Pasted image 20240514213441.png",
     "zz_assets/Pasted image 20240514202803.png",
-    "Story/20 - The Planet of the Elves.md",
-    "Story/21 - Where are we.md",
     "Locations/Castrovel.md",
-    "Story/19 - The Elven Quarry.md",
     "Locations/Sevenarches.md",
     "Locations/Mwangi Expanse.md",
     "Story/15 - The Comfortable Night.md",
@@ -264,7 +264,6 @@
     "zz_assets/Pasted image 20240409191552.png",
     "zz_assets/Pasted image 20240409191417.png",
     "zz_assets/Pasted image 20240319192953.png",
-    "zz_assets/Pasted image 20240402211314.png",
     "zz_scripts",
     "zz_templates",
     "zz_assets",
