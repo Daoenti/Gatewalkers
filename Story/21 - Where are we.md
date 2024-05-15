@@ -13,3 +13,4 @@ desc:
 monsters:
 ---
 # Reading the room
+![[Pasted image 20240514202803.png]]
