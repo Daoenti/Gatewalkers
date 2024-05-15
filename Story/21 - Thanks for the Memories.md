@@ -16,3 +16,4 @@ monsters:
 ![[Pasted image 20240514202803.png]]
 # The Paper Pushers
 ![[Pasted image 20240514213441.png]]
+Paperwork, did not like us opening the door, attacked.
