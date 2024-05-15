@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/20 - The Planet of the Elves.md",
+                "file": "Story/21 - Where are we.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story/20 - The Planet of the Elves.md",
+                "file": "Story/21 - Where are we.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Story/20 - The Planet of the Elves.md",
+                "file": "Story/21 - Where are we.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Story/20 - The Planet of the Elves.md"
+                "file": "Story/21 - Where are we.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Story/20 - The Planet of the Elves.md"
+                "file": "Story/21 - Where are we.md"
               }
             }
           },
@@ -229,9 +229,10 @@
   },
   "active": "cb51c35b0f754e11",
   "lastOpenFiles": [
+    "Story/20 - The Planet of the Elves.md",
+    "Story/21 - Where are we.md",
     "Locations/Castrovel.md",
     "Story/19 - The Elven Quarry.md",
-    "Story/20 - The Planet of the Elves.md",
     "Locations/Sevenarches.md",
     "Locations/Mwangi Expanse.md",
     "Story/15 - The Comfortable Night.md",
@@ -256,7 +257,6 @@
     "Story/14 - Into The Court.md",
     "People/Count Renalc.md",
     "Story/1 - Arrival.md",
-    "People/Hubert Hedge.md",
     "zz_assets/Pasted image 20240409203151.png",
     "zz_assets/Pasted image 20240409202245.png",
     "zz_assets/Pasted image 20240409191641.png",
