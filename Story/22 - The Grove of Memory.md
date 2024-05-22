@@ -15,3 +15,4 @@ monsters:
 Calborn
 
 ![[Pasted image 20240521203650.png]]
+Golarian is a prison built to house god of destruction.  Osoyo, evil being.
