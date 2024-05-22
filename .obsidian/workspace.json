@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/21 - Thanks for the Memories.md",
+                "file": "Story/22 - The Grove of Memory.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story/21 - Thanks for the Memories.md",
+                "file": "Story/22 - The Grove of Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Story/21 - Thanks for the Memories.md",
+                "file": "Story/22 - The Grove of Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Story/21 - Thanks for the Memories.md"
+                "file": "Story/22 - The Grove of Memory.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Story/21 - Thanks for the Memories.md"
+                "file": "Story/22 - The Grove of Memory.md"
               }
             }
           },
@@ -229,9 +229,10 @@
   },
   "active": "cb51c35b0f754e11",
   "lastOpenFiles": [
+    "Story/21 - Thanks for the Memories.md",
+    "Story/22 - The Grove of Memory.md",
     "Story/19 - The Elven Quarry.md",
     "Story/20 - The Planet of the Elves.md",
-    "Story/21 - Thanks for the Memories.md",
     "zz_assets/Pasted image 20240514213441.png",
     "zz_assets/Pasted image 20240514202803.png",
     "Locations/Castrovel.md",
