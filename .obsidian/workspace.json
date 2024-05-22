@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backstory/2 - Priestess.md",
+                "file": "Story/22 - The Grove of Memory.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backstory/2 - Priestess.md",
+                "file": "Story/22 - The Grove of Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backstory/2 - Priestess.md",
+                "file": "Story/22 - The Grove of Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backstory/2 - Priestess.md"
+                "file": "Story/22 - The Grove of Memory.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backstory/2 - Priestess.md"
+                "file": "Story/22 - The Grove of Memory.md"
               }
             }
           },
@@ -229,6 +229,8 @@
   },
   "active": "cb51c35b0f754e11",
   "lastOpenFiles": [
+    "zz_assets/Pasted image 20240521203650.png",
+    "Backstory/2 - Priestess.md",
     "Backstory/3 - Dreams.md",
     "Story/22 - The Grove of Memory.md",
     "Story/21 - Thanks for the Memories.md",
@@ -257,8 +259,6 @@
     "People/PC/Maialen.md",
     "People/PC/Mutt.md",
     "People/PC/Rhodd.md",
-    "People/PC/Talon.md",
-    "Story/14 - Into The Court.md",
     "zz_assets/Pasted image 20240409203151.png",
     "zz_assets/Pasted image 20240409202245.png",
     "zz_assets/Pasted image 20240409191641.png",
