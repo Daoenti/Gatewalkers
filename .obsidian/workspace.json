@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/23 - The Headwaters.md",
+                "file": "Story/23 - The Ascent to the Headwaters.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story/23 - The Headwaters.md",
+                "file": "Story/23 - The Ascent to the Headwaters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Story/23 - The Headwaters.md",
+                "file": "Story/23 - The Ascent to the Headwaters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Story/23 - The Headwaters.md"
+                "file": "Story/23 - The Ascent to the Headwaters.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Story/23 - The Headwaters.md"
+                "file": "Story/23 - The Ascent to the Headwaters.md"
               }
             }
           },
@@ -229,8 +229,9 @@
   },
   "active": "cb51c35b0f754e11",
   "lastOpenFiles": [
+    "zz_assets/Pasted image 20240604211229.png",
     "Story/22 - The Grove of Memory.md",
-    "Story/23 - The Headwaters.md",
+    "Story/23 - The Ascent to the Headwaters.md",
     "Story/19 - The Elven Quarry.md",
     "Story/20 - The Planet of the Elves.md",
     "Story/21 - Thanks for the Memories.md",
@@ -259,7 +260,6 @@
     "Locations/Kneepo's Court.md",
     "People/PC/Maialen.md",
     "People/PC/Mutt.md",
-    "People/PC/Rhodd.md",
     "zz_assets/Pasted image 20240409203151.png",
     "zz_assets/Pasted image 20240409202245.png",
     "zz_assets/Pasted image 20240409191641.png",
