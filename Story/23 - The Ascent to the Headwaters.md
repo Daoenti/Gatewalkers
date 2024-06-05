@@ -16,3 +16,4 @@ We were grabbed by assassin vines while climbing up the tower.
 
 # The Lion Bird
 ![[Pasted image 20240604211229.png]]
+We threw it over the edge...
